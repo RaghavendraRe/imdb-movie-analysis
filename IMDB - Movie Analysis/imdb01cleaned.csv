@@ -1,0 +1,699 @@
+Title,Year,Rating,Directors,Stars,Votes,Gross Worldwide,Production Company,total_minute,Genre_Cleaned,Primary_Language
+Jaat,2025,6.8,Gopichand Malineni,"Sunny Deol,Randeep Hooda,Regena Cassandrra",5400,531499.0,"Mythri Movie Makers, People Media Factory",158,"Action, Drama, Thriller",Hindi
+Chhaava,2025,7.4,Laxman Utekar,"Vicky Kaushal,Akshaye Khanna,Rashmika Mandanna",31000,8219603.0,Maddock Films,161,"Action, Drama, History",Hindi
+Good Bad Ugly,2025,7.0,Adhik Ravichandran,"Trisha Krishnan,Ajith Kumar,Priya Prakash Varrier",8000,1462902.0,Mythri Movie Makers,139,"Action, Drama, Thriller",Tamil
+Court - State vs a Nobody,2025,7.9,Ram Jagadeesh,"Priyadarshi Pulikonda,Harsh Roshan,Sri Devi",5400,133791.0,Wall Poster Cinema,155,Drama,Telugu
+Deva,2025,6.8,Rosshan Andrrews,"Shahid Kapoor,Pooja Hegde,Saadhika Syal",24000,1091296.0,"Roy Kapur Films, Zee Studios",156,"Crime, Drama, Mystery",Hindi
+Kesari Chapter 2,2025,8.4,Karan Singh Tyagi,"Akshay Kumar,Ananya Panday",5000,888665.0,"Cape of Good Films, Dharma Productions, Leo Media Collective",133,"Biography, Drama, History",Hindi
+Dragon,2025,7.9,Ashwath Marimuthu,"Kayadu Lohar,Anupama Parameswaran,Pradeep Ranganathan",11000,738241.0,AGS Entertainment,157,"Comedy, Drama, Romance",Tamil
+Pushpa the Rule,2024,6.1,Sukumar,"Allu Arjun,Rashmika Mandanna,Fahadh Faasil",56000,154621981.0,"AR Film Studio, Muttamsetty Media, Mythri Movie Makers",201,"Crime, Drama, Thriller",Telugu
+Sikandar,2025,4.3,A.R. Murugadoss,"Salman Khan,Rashmika Mandanna,Ananth Mahadevan",49000,3019351.0,"Nadiadwala Grandson Entertainment, Salman Khan Films",148,"Action, Drama, Thriller",Hindi
+Lucky Baskhar,2024,8.0,Venky Atluri,"Dulquer Salmaan,Meenaakshi Chaudhary,Tinnu Anand",32000,987421.0,"Fortune Four Cinemas, Sithara Entertainments",148,"Crime, Drama, Thriller",Telugu
+The Diplomat,2025,7.5,Shivam Nair,"John Abraham,Sadia Khateeb,Kumud Mishra",6800,85823.0,"Fortune Films, JA Entertainment",130,"Thriller, Drama",Hindi
+Chhorii 2,2025,4.6,Vishal Furia,"Nushrratt Bharuccha,Saurabh Goyal,Soha Ali Khan",1100,1021.0,"Abundantia Entertainment, Crypt TVPsych Productions",132,Horror,Hindi
+Chhorii,2021,6.7,Vishal Furia,"Nushrratt Bharuccha,Mita Vashisht,Saurabh Goyal",6900,1444020.0,"Abundantia Entertainment, T-Series Films, Crypt TV",129,"Drama, Horror, Thriller",Hindi
+12th Fail,2023,8.8,Vidhu Vinod Chopra,"Vikrant Massey,Medha Shankr,Anant Joshi",147000,138288.0,"Vinod Chopra Films, Zee Studios",147,"Drama, Biography",Hindi
+Crazxy,2025,6.9,Girish Kohli,"Shilpa Shukla,Sohum Shah,Nimisha Sajayan",16000,100199.5,Sohum Shah FIlms,93,Thriller,Hindi
+Perusu,2025,6.4,Ilango Ramanathan,"Chandini Tamilarasan,Vaibhav Reddy",1400,126875.5,"Baweja Studios, Emberlight Studios, Stone Bench Films",125,Comedy,Tamil
+14 Days: Girlfriend Intlo,2025,7.2,Sriharsha Manne,"Ashok Chandra,Vennela Kishore",12000,1867.0,Satya Arts Entertainment,90,Comedy,Telugu
+3 Idiots,2009,8.4,Rajkumar Hirani,"Aamir Khan,Madhavan,Mona Singh",458000,60262836.0,Vinod Chopra Productions,170,"Comedy, Drama",Hindi
+Rekhachithram,2025,8.0,Jofin T. Chacko,"Asif Ali,Anaswara Rajan",12000,1747519.0,"Ann Mega Media Release, Kavya Film Company",147,"Drama, Mystery, Thriller",Malayalam
+Alappuzha Gymkhana,2025,7.3,Khalid Rahman,"Lukman Avaran,Franco Francis",2000,1219824.0,"Plan B Motion Pictures, Reelistic Studios",139,"Action, Comedy, Drama",Malayalam
+Officer on Duty,2025,7.5,Jithu Ashraf,Kunchacko Boban,7400,1266113.0,"Martin Prakkat Films, The Green Room",134,"Action, Crime, Thriller",Malayalam
+Praavinkoodu Shappu,2025,6.6,Sreeraj Sreenivasan,"Soubin Shahir,Basil Joseph,Chandini Sreedharan",2400,197118.0,Anwar Rasheed Entertainment,146,Thriller,Malayalam
+Superboys of Malegaon,2024,7.8,Reema Kagti,"Adarsh Gourav,Shashank Arora,Vineet Kumar Singh",3000,176169.0,"Excel Entertainment, Tiger Baby Films",127,"Comedy, Drama",Hindi
+Rise Roar Revolt,2022,7.8,S.S. Rajamouli,"N.T. Rama Rao Jr.,Ram Charan,Ajay Devagn",178000,166602994.0,DVV Entertainment,187,"Action, Adventure, Drama",Telugu
+Maharaja,2024,8.4,Nithilan Saminathan,"Vijay Sethupathi,Anurag Kashyap,Mamta Mohandas",67000,975543.0,"Passion Studios, The Route",141,"Crime, Drama, Thriller",Tamil
+Sky Force,2025,6.9,Abhishek Anil KapurSandeep Kewlani,"Akshay Kumar,Veer Pahariya,Nimrat Kaur",11000,313178.0,"Jio Studios, Maddock Films",125,"Action, Thriller",Hindi
+Kaushaljis vs Kaushal,2025,6.5,Seemaa Desai,"Ashutosh Rana,Sheeba Chaddha,Isha Talwar",7800,50013.0,"Jio Studios, Merry Go Round Studios, Mumbai Talkeez",131,Drama,Hindi
+Tumbbad,2018,8.2,Rahi Anil BarveAnand GandhiAdesh Prasad,"Sohum Shah,Jyoti Malshe,Anita Date",68000,1691980.0,"Colour Yellow Productions, Sohum Shah FIlms, Film i Väst",108,"Fantasy, Horror, Thriller",Hindi
+Bazooka,2025,7.8,Deeno Dennis,"Gautham Vasudev Menon,Shine Tom Chacko",1900,592400.0,"Jumping Tomato Studios, Saregama India, Theatre of Dreams",154,"Action, Crime, Thriller",Malayalam
+L2: Empuraan,2025,6.3,Prithviraj Sukumaran,"Prithviraj Sukumaran,Rick Yune",11000,9280633.0,"Lyca Productions, Aashirvad Cinemas, Sree Gokulam Movies",179,"Action, Crime, Thriller",Malayalam
+Dangal,2016,8.3,Nitesh Tiwari,"Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh",225000,303726694.0,"Aamir Khan Productions, UTV Motion Pictures, Walt Disney Pictures",161,"Biography, Drama, Sport",Hindi
+Marco,2024,6.8,Haneef Adeni,Unni Mukundan,21000,1983898.0,Cubes Entertainments,145,"Crime, Drama, Thriller",Malayalam
+Azaad,2025,4.8,Abhishek Kapoor,"Ajay Devgn,Diana Penty,Aman Devgan",3100,138980.0,"Guy in the Sky Pictures, RSVPZeal Z Entertainment services",147,"Adventure, Drama",Hindi
+Nanban Oruvan Vandha Piragu,2024,6.2,Ananth Ram,"Ananth Ram,Bhavani Sre",6300,50013.0,"Masala Popcorn Productions, White Feather Studios",134,Drama,Tamil
+Kalki 2898 AD,2024,7.0,Nag Ashwin,"Amitabh Bachchan,Kamal Haasan",67000,125857438.0,Vyjayanthi Movies,180,"Drama, Fantasy, Sci-Fi",Telugu
+Dhoom Dhaam,2025,6.4,Rishab Seth,"Pratik Gandhi,Yami Gautam,Pavitra Sarkar",6100,5124512.5,"B62 Studios, Jio Studios",108,"Action, Comedy, Romance",Hindi
+Identity,2025,7.4,Anas KhanAkhil Paul,"Tovino Thomas,Trisha Krishnan,Vinay Rai",8800,435906.0,"Century Films, Ragam Movies",157,"Action, Crime, Thriller",Malayalam
+Kesari,2019,7.4,Anurag Singh,"Akshay Kumar,Parineeti Chopra,Suvinder Vicky",24000,22459511.0,"Dharma Productions, Hari Om Entertainment, Azure Entertainment",150,"Drama, History, Thriller",Hindi
+Kill,2023,7.5,Nikhil Nagesh Bhat,"Raghav Juyal,Tanya Maniktala",40000,1930699.0,"Sikhya Entertainment, Dharma Productions",105,"Crime, Drama, Thriller",Hindi
+Bãhubali: The Beginning,2015,8.0,S.S. Rajamouli,"Rana Daggubati,Anushka Shetty",145000,24548038.0,Arka Mediaworks,159,"Period Drama, Action, Drama",Telugu
+Amaran,2024,8.1,Rajkumar Periasamy,"Sai Pallavi,Bhuvan Arora",19000,1738671.0,"Raajkamal Films International, Sony Pictures Films India, Turmeric Media",167,"Biography, Drama, War",Tamil
+Sankrathiki Vasthunam,2025,6.2,Anil Ravipudi,"Venkatesh Daggubati,Aishwarya Rajesh, Meenaakshi Chaudary",3200,651053.0,Sri Venkateswara Creations,160,"Comedy, Action",Telugu
+Stree 2,2024,6.9,Amar Kaushik,"Rajkummar Rao,Shraddha Kapoor,Pankaj Tripathi",42000,7387498.0,"Maddock Films, Jio Studios",147,"Horror, Comedy",Hindi
+Veera Dheera Sooran,2025,7.1,S.U. Arun Kumar,Dushara Vijayan,4300,603618.0,HR Pictures,162,Action,Tamil
+Animal,2023,6.1,Sandeep Reddy Vanga,"Ranbir kapoor,Anil Kapoor,Bobby Deol",106000,92870950.0,"Bhadrakali Pictures, Cars on Film, Cine1 Studios",204,"Crime, Drama, Thriller",Hindi
+Nilavuku Enmel Ennadi Kobam,2025,5.7,Dhanush,"Karthikeya Anjaneyan,Priyanka Arulmohan,Rabiya Khatoon",1600,75461.0,"Raja Kasthoori (RK) Productions, Wunderbar Films",136,"Comedy, Drama, Romance",Tamil
+Mon Potongo,2024,6.9,"Sarmistha Maiti, Rajdeep paul","Subhankar Mohanta,Baishakhi Roy,Seema Biswas",371,616333.0,Aurora Film Corporation,149,"Drama, Romance",Bengali
+Laapataa Ladies,2023,8.4,Kiran Rao,"Nitanshi Goel,Pratibha Ranta,Sparsh Shrivastava",51000,108886.0,"Jio Studios, Aamir Khan Productions, Kindling Productions",122,"Comedy, Drama",Hindi
+Taare Zameen Par,2007,8.3,Aamir Khan,"Darsheel Safary,Aamir Khan,Tisca Chopra",217000,21897373.0,"Aamir Khan Productions, PVR Pictures",162,"Drama, Family",Hindi
+Be Happy,2025,6.5,Remo D'Souza,"Nora Fatehi,Abhishek Bachchan,Sonali Bendre",1300,50013.0,"Karishma Internationals, Remo D'Souza Entertainment, Salman Khan Films",128,Drama,Hindi
+Do Patti,2024,6.4,Shashanka Chaturvedi,"Kriti Sanon,Shaheer Sheikh",69000,1061366.5,"Blue Butterfly Films, Katha pictures, Vipin Priyanka Production",126,"Drama, Mystery, Thriller",Hindi
+Robinhood,2025,4.6,Venky Kudumula,"Nitiin,Sreeleela,Shine Tom chacko",489,44478.0,Mythri Movie Makers,150,"Action, Comedy, Crime",Telugu
+Agra,2023,5.6,Kanu Behl,"Mohit Agarwal,Priyanka Bose,Vibha Chhiber",1200,50013.0,"Saregama India, Saregama, UFO Production",132,Drama,Hindi
+Mere Husband Ki Biwi,2025,4.5,Mudassar Aziz,"Arjun Kapoor,Bhumi Pednekar,Rakul Preet Singh",8200,147492.0,Pooja Entertainment & Films,142,"Comedy, Romance",Hindi
+Ponman,2025,7.4,Jotish Shankar,"Basil Joseph,Sajin Gopu,Lijo Mol Jose",5600,425812.0,Ajith Vinayaka Films,125,"Comedy, Drama",Malayalam
+Fighter,2024,6.2,Siddharth Anand,"Hrithik Roshan,Deepika Padukone,Anil Kapoor",52000,3800771.0,"Betterfly Films, Manomay Motion Pictures, Marlix Pictures",166,"Action, Drama",Hindi
+VidaaMuyarchi,2025,6.3,Magizh Thirumeni,"Ajith Kumar,Arjun Sarja,Trisha Krishnan",22000,1144195.0,Lyca Productions,154,"Drama, Mystery, Thriller",Tamil
+Mad Square,2025,5.8,Kalyan ShankarMurali,"Narne Nithiin,Ram Nithin,Sangeeth Shobhan",771,216446.0,"Fortune Four Cinemas, Sithara Entertainments, Srikara Studios",130,Comedy,Telugu
+PK,2014,8.1,Rajkumar Hirani,"Aamir Khan,Anushka Sharma,Sanjay Dutt",210000,100370104.0,"Rajkumar Hirani Films, Vinod Chopra Productions",153,"Comedy, Drama, Sci-Fi",Hindi
+Bãhubali 2: The Conclusion,2017,8.2,S.S. Rajamouli,"Rana Daggubati,Anushka Shetty",123000,254158390.0,Arka Mediaworks,167,"Period Drama, Action, Drama",Telugu
+K.G.F: Chapter 2,2022,8.2,Prashanth Neel,"Yash,Sanjay Dutt,Raveena Tandon",158000,89123940.0,Hombale Films,166,"Crime, Drama, Thriller",Kannada
+Raid,2018,7.4,Raj Kumar Gupta,"Ajay Devgn,Saurabh Shukla",20000,15694591.0,"Panorama Studios, Super Cassettes Industries Limited (T-Series)T-Series",122,"Crime, Drama, Thriller",Hindi
+Teri Baaton Mein Aisa Uljha Jiya,2024,6.2,Amit JoshiAradhana Sah,"Shahid Kapoor,Kriti Sanon",54000,1699722.0,"Jio Studios, Maddock Films",141,"Drama, Romance, Sci-Fi",Hindi
+Iratta,2023,7.7,Rohit M.G. Krishnan,Joju George,6900,34287.0,"Appu Pathu Pappu Production House, Martin Prakkat Films",112,"Crime, Drama, Thriller",Malayalam
+The Goat Life,2024,7.1,Blessy,"Prithviraj Sukumaran,Jimmy Jean",47000,5138042.0,"Alta Global Media, Image Makers, Jet Media Productions",173,"Survival, Adventure, Drama",Malayalam
+Munjya,2024,6.3,Aditya Sarpotdar,"Abhay Verma,Mona Singh",26000,232949.0,Maddock Films,123,"Horror, Comedy",Hindi
+Sector 36,2024,7.1,Aditya Nimbalkar,"Vikrant Massey,Deepak Dobriyal,Akash Khurana",25000,987421.0,"Jio Studios, Maddock Films",123,"Crime, Drama, Thriller",Hindi
+Game Changer,2025,5.3,S. Shankar,"Ram Charan,Kiara Advani,Sankalpa Banerjee",27000,2849061.0,"Benay's Bird & Animal Source, Sri Venkateswara Creations, Zee Studios",165,"Action, Drama, Thriller",Telugu
+Zindagi Na Milegi Dobara,2011,8.2,Zoya Akhtar,"Hrithik Roshan,Farhan Akhtar,Abhay Deol",90000,5192743.0,"Eros Worldwide, Excel Entertainment",155,"Drama, Musical, Romance",Hindi
+Baby John,2024,5.2,Kalees,"Salman Khan,Wamiqa Gabbi,Sanya Malhotra",17000,366347.0,"A for Apple Productions, Cine1 Studios, Jio Studios",159,"Crime, Drama, Thriller",Hindi
+Fateh,2025,6.3,Sonu Sood,"Sonu Sood,Jacqueline Fernandez,Vijay Raaz",19000,101332.0,"Shakti Sagar Productions, Zee Studios",127,"Action, Crime, Thriller",Hindi
+Emergency,2025,5.2,Kangana Ranaut,"Anupam Kher,Kangana Ranaut,Mahima Chaudhry",11000,147371.0,"Ease My Trip & Gateaway Pictures, Manikarnika Films, Zee Studios",146,"Biography, Drama, History",Hindi
+Bhool Chuk Maaf,2025,5.5,Karan Sharma,"Wamiqa Gabbi, Rajkummar rao,Sanjay Mishra",11000,50013.0,"Amazon MGM Studios, Maddock Films",140,Drama,Hindi
+Viduthalai Part 1,2023,8.2,Vetrimaaran,"Vijay Sethupathi,Bhavani Sre",11000,5880.0,"Grass Root Film Company, RS Infotainment",150,"Crime, Drama, Thriller",Tamil
+Kishkkindha Kandam,2024,8.0,Dinjith Ayyathan,"Asif Ali,Aparna Balamurali",12000,1882951.0,Goodwill Entertainments,133,"Drama, Mystery, Thriller",Malayalam
+Viduthalai Part 2,2024,7.8,Vetrimaaran,"Vijay Sethupathi,Manju Warrier",16000,303691.0,"Grass Root Film Company, RS Infotainment",170,"Crime, Drama, Thriller",Tamil
+Manamey,2024,5.3,Sriram Adittya,"Vikram Aditya,Adith Arun,Tanikella Bharani",709,43939.0,People Media Factory,155,Comedy,Telugu
+Shaitaan,2024,6.5,Vikas Bahl,"Ajay Devgn,Madhavan,Jyotika",54000,1503613.0,"Jio Studios, Ajay Devgn Ffilms, Panorama Studios",132,"Drama, Horror, Thriller",Hindi
+Loveyapa,2025,5.3,Advait Chandan,"Khushi Kapoor,Junaid Khan,Ashutosh Rana",1900,110780.0,"AGS Entertainment, Phantom Films",137,"Comedy, Drama",Hindi
+Sookshma Darshini,2024,7.8,Mc Jithin,"Nazriya Nazim,Basil Joseph,Akhila Bhargavan",10000,1655739.0,"AVA Productions, Happy Hours Entertainments",142,"Comedy, Mystery, Thriller",Malayalam
+Thandel,2025,6.6,Chandoo Mondeti,"Naga Chaitanya Akkineni,Sai Pallavi,Shiva Alapati",3600,229885.0,"GA2 Pictures, Geetha Arts",152,"Adventure, Romance, Thriller",Telugu
+Hanu Man,2024,7.7,Prasanth Varma,"Teja Sajja,Amritha Aiyer,Varalaxmi Sarathkumar",29000,775578.0,Primeshow Entertainment,158,"Action, Adventure, Fantasy",Telugu
+Naadaniyaan,2025,2.9,Shauna Gautam,"Ibrahim Ali Khan,Khushi Kapoor,Suniel Shetty",15000,320366.0,"Dharma Productions, Dharmatic Entertainment",119,"Comedy, Drama, Romance",Hindi
+Singham Again,2024,4.7,Rohit Shetty,"Ajay Devgn,Kareena Kapoor,Deepika Padukone",75000,5866875.0,"Jio Studios, Ajay Devgn Ffilms, Bollygrad Productions",144,"Crime, Drama, Thriller",Hindi
+Thalavan,2024,7.2,Jis Joy,"Biju Menon,Asif Ali,Miya George",4700,584469.0,"Arun Narayan Productions, London Studios",131,"Crime, Mystery, Thriller",Malayalam
+Lagaan: Once Upon a Time in India,2001,8.1,Ashutosh Gowariker,"Aamir Khan,Raghubir Yadav,Gracy Singh",124000,1724806.0,"Aamir Khan Productions, Jhamu Sughand Productions",224,"Drama, Musical, Sport",Hindi
+Pushpa: The Rise-Part 1,2021,7.6,Sukumar,"Rashmika Mandanna,Samantha Ruth Prabhu,Fahadh Faasil",97000,7592374.0,"Mythri Movie Makers, Muttamsetty Media",179,"Crime, Drama, Thriller",Telugu
+Kingston,2025,4.2,Kamal Prakash,"Prakash Kumar,Divya Bharathi",309,4636.0,"Parallel Universe Pictures, Vipin Agnihotri Films, Zee Studios",139,Drama,Tamil
+Jai Bhim,2021,8.7,T.J. Gnanavel,"Suriya,Lijo Mol Jose,Manikandan K.",225000,481860.0,2D Entertainment,164,"Drama, Crime",Tamil
+Dunki,2023,6.5,Rajkumar Hirani,"Taapsee Pannu,Ryan Cretney,Priya Sindher",81000,15473051.0,"Jio Studios, Rajkumar Hirani Films, Red Chillies Entertainment",160,"Comedy, Drama, Romance",Hindi
+Salaar,2023,6.6,Prashanth Neel,"Karthikeya Dev,Prithviraj Sukumaran",75000,11958548.0,Hombale Films,175,"Crime, Drama, Thriller",Telugu
+Kantara,2022,8.2,Rishab Shetty,"Rishab Shetty,Kishore Kumar G.,Achyuth Kumar",108000,2406221.0,Hombale Films,148,"Adventure, Drama, Thriller",Kannada
+Sikandar Ka Muqaddar,2024,6.0,Neeraj Pandey,"Jimmy Shergill,Avinash Tiwary,Tamannaah Bhatia",24000,1061366.5,"Friday Filmworks, Friday Storytellers",142,"Drama, Mystery, Thriller",Hindi
+Odela 2,2025,8.1,Ashok Teja,"Tamannaah Bhatia,Hebah Patel",1100,58.0,"Madhu Creations, Sampath Nandi Team Works",150,"Crime, Drama, Thriller",Telugu
+Murmur,2025,4.7,HemnathnarayananHemnath Narayanan,"Richie Kapoor,Yuvikha Rajendran",3600,142987.0,"SPK Pictures Private, SPK Pictures, Stand Alone Pictures International",139,"Horror, Thriller",Tamil
+Drishyam,2015,8.2,Nishikant Kamat,"Ajay Devgn,Shriya Saran",101000,1061366.5,"Panorama Studios, Rajkumar Theaters Private Limited, Viacom18 Motion Pictures",163,"Drama, Mystery, Thriller",Hindi
+Jawan,2023,6.9,Atlee,"Shah Rukh Khan,Vijay Sethupathi",105000,28499044.0,"Red Chillies Entertainment, Red Chillies Entertainment",169,"Crime, Drama, Thriller",Hindi
+Evaru,2019,8.1,Venkat Ramji,"Adivi Sesh,Regena Cassandrra,Naveen Chandra",8000,62744.0,PVP Cinema,118,"Mystery, Thriller",Telugu
+Padmaavat,2018,7.1,Sanjay Leela Bhansali,"Deepika Padukone,Ranveer Singh,Shahid Kapoor",39000,60510288.0,"Bhansali Productions, Prime Focus, Prime Focus",163,"Drama, History, War",Hindi
+My Name Is Khan,2010,7.9,Karan Johar,"Shah Rukh Khan,Sheetal Menon",120000,42345360.0,"Dharma Productions, Fox Searchlight Pictures, Fox Star Studios",165,"Tragedy, Drama, Romance",Hindi
+The White Tiger,2021,7.1,Ramin Bahrani,"Adarsh Gourav,Rajkummar Rao,Priyanka Chopra Jonas",67000,131028.0,"Lava Media, ARRAY Filmworks, India Take One Productions",125,"Crime, Drama",Hindi
+"Swades: We, the People",2004,8.2,Ashutosh Gowariker,"Shah Rukh Khan,Gayatri Joshi,Kishori Ballal",101000,1953889.0,"Ashutosh Gowariker Productions, Dillywood, UTV Motion Pictures",210,"Drama, Musical",Hindi
+Riwaj,2025,7.1,Manoj Sati,"Myra Sareen,Aftab Shivdasani,Adhvik Mahajan",4200,50013.0,Kashish Khan Production,130,Drama,Hindi
+Jigra,2024,6.0,Vasan Bala,"Alia Bhatt,Sikandar Kher,Manoj Pahwa",24000,874961.0,"Dharma Productions, Eternal Sunshine Productions",153,"Crime, Drama, Thriller",Hindi
+Devara,2024,6.0,Koratala Siva,"Rama Rao Jr,Saif Ali Khan,Janhvi Kapoor",20000,7361414.0,"NTR Arts, Yuvasudha Arts",176,"Action, Drama, Thriller",Telugu
+Badass Ravikumar,2025,7.0,Keith Gomes,"Sulabha Arya,Mustafa Askari,Varun Buddhadev",9000,481860.0,"Himesh Reshammiya Melodies, Himesh Reshammiya Melodies",146,"Action, Comedy, Musical",Hindi
+Fire,2025,5.4,Jsk Satish Kumar,"Balaji Murugadoss,Chandini Tamilarasan,Rachitha Mahalakshmi",10000,481860.0,JSK Film Corporation,132,"Police Procedural, Crime",Tamil
+Andhadhun,2018,8.2,Sriram Raghavan,"Ayushmann Khurrana,Radhika Apte",108000,62475342.0,"Matchbox Pictures, Viacom18 Motion Pictures",139,"Crime, Mystery, Thriller",Hindi
+Samara,2023,5.7,Charles Joseph,"Rahman,Bharath Srinivasan,Binoj Villya",5300,2635333.0,Peacock Art House,118,"Adventure, Sci-Fi, Thriller",Tamil
+Aavesham,2024,7.8,Jithu Madhavan,"Fahadh Faasil,Mithun Jai Shankar",28000,3694257.0,"Anwar Rasheed Entertainment, Fahadh Faasil and Friends",155,"Action, Comedy",Malayalam
+Khel Khel Mein,2024,6.5,Mudassar Aziz,"Akshay Kumar,Ammy Virk,Taapsee Pannu",27000,708371.0,"KKM Film production, T-Series Films, Wakaoo Films",135,"Comedy, Drama",Hindi
+Golam,2024,7.2,Samjad,"Ranjith Sajeev,Dileesh Pothan,Sunny Wayne",5700,140355.0,Fragrant Nature,120,"Whodunnit, Crime, Mystery",Malayalam
+Mrs,2023,6.7,Arati Kadav,"Sanya Malhotra,Avi Thakral,Nishant Dahiya",5000,176169.0,"Baweja Studios, Jio Studios",111,"Comedy, Drama",Hindi
+Article 15,2019,8.1,Anubhav Sinha,"Ayushmann Khurrana,Manoj Pahwa",38000,734514.0,"Benaras Mediaworks, Zee Studios",130,"Drama, Mystery, Thriller",Hindi
+Kaithi,2019,8.4,Lokesh Kanagaraj,Arjun Das,46000,522938.0,"Dream Warrior Pictures, Vivekananda Pictures",145,"Action, Crime, Thriller",Tamil
+Sardar Udham,2021,8.3,Shoojit Sircar,"Vicky Kaushal,Shaun Scott,Stephen Hogan",49000,274675.0,"Kino Works, Rising Sun Films",164,"Crime, Drama, History",Hindi
+Manjummel Boys,2024,8.2,Chidambaram,"Soubin Shahir,Sreenath Bhasi,Balu Varghese",27000,3784106.0,"Parava Films, Sree Gokulam Movies",135,"Adventure, Drama, Thriller",Malayalam
+The Mehta Boys,2024,7.1,Boman Irani,"Boman Irani,Avinash Tiwary,Shreya Chaudhry",2600,50013.0,"Chalkboard Entertainment, Irani Movietone",116,Drama,Hindi
+Daaku Maharaaj,2025,5.9,Bobby Kolli,"Nandamuri Balakrishna,Bobby Deol,Pragya Jaiswal",4100,157823.0,"Fortune Four Cinemas, Sithara Entertainments, Srikara Studios",150,"Action, Adventure, Drama",Telugu
+Kal Ho Naa Ho,2003,7.9,Nikkhil Advani,"Shah Rukh Khan,Saif Ali Khan",78000,13214520.0,Dharma Productions,186,"Drama, Musical, Romance",Hindi
+Bhool Bhulaiyaa 3,2024,4.6,Anees Bazmee,"Kartik Aaryan,Vidya Balan,Madhuri Dixit",78000,5646134.0,Super Cassettes Industries Limited (T-Series)T-Series,158,"Comedy, Fantasy, Horror",Hindi
+Kabir Singh,2019,7.0,Sandeep Reddy Vanga,"Shahid Kapoor,Kiara Advani,Nikita Dutta",43000,2445252.0,"Cine1 Studios, T-Series",173,"Drama, Romance",Hindi
+Maharaj,2024,6.5,Siddharth P Malhotra,"Junaid Khan,Jaideep Ahlawat,Shalini Pandey",15000,22459511.0,Yash Raj Films,131,"Drama, History, Thriller",Hindi
+The Lunchbox,2013,7.8,Ritesh Batra,"Irrfan Khan,Nimrat Kaur,Nawazuddin Siddiqui",64000,11621785.0,"Sikhya Entertainment, DAR Motion Pictures, National Film Development Corporation of India (NFDC)",104,"Drama, Romance",Hindi
+Dangerous,2022,5.4,Ram Gopal Varma,"Naina Ganguly,Rajpal Naurang Yadav, Mithu Purandare",1800,38090.5,"Company, Spark",99,"Drama, Romance, Thriller",Hindi
+Stree,2018,7.5,Amar Kaushik,"Rajkummar Rao,Shraddha Kapoor,Pankaj Tripathi",45000,22075730.0,"D2R Films, Maddock Films, Skywalk Films",128,"Comedy, Horror",Hindi
+Love Today,2022,8.0,Pradeep Ranganathan,"Pradeep Ranganathan,Yogi Babu",17000,158787.0,AGS Entertainment,154,"Comedy, Drama, Romance",Tamil
+Dil Chahta Hai,2001,8.0,Farhan Akhtar,"Aamir Khan,Saif Ali Khan,Akshaye Khanna",78000,316221.0,Excel Entertainment,183,"Comedy, Drama, Romance",Hindi
+Aashiqui 2,2013,7.1,Mohit Suri,"Aditya Roy Kapoor,Shraddha Kapoor,Shaad Randhawa",35000,481860.0,Super Cassettes Industries Limited (T-Series)Vishesh Films,132,"Music, Musical, Romance",Hindi
+Ratsasan,2018,8.3,Ram Kumar,"Vishnu Vishal,Amala Paul,Radha Ravi",54000,426782.0,Axess Film Factory,146,"Crime, Mystery, Thriller",Tamil
+Lapachhapi,2017,7.6,Vishal Furia,"Pooja Sawant,Usha Naik,Vikram Gaikwad",889,85417.0,Midas Touch Movies,120,"Horror, Mystery, Thriller",Marathi
+Kudumbasthan,2025,7.4,Rajeshwar Kaliswamy,"Prasanna Balachandran,Jensan Diwakar,Kovai Gurumoorthy",2200,68233.0,Cinemakaaran Productions,154,"Comedy, Drama",Tamil
+Sita Ramam,2022,8.5,Hanu Raghavapudi,"Dulquer Salmaan,Mrunal Thakur,Rashmika Mandanna",75000,2208029.0,"Swapna Cinema, Vyjayanthi Movies",163,"Drama, Mystery, Romance",Telugu
+HIT,2020,7.6,Sailesh Kolanu,"Vishwak Sen,Ruhani Sharma,Murli Sharma",8200,617889.0,"Wall Poster Cinema, Goldmines Telefilms",125,"Drama, Mystery, Thriller",Telugu
+Ka,2024,7.1,SandeepSujeeth,Kiran Abbavaram,1600,38511.0,"KA Productions, Srichakraas Entertainments",151,"Action, Thriller",Telugu
+Sarileru Neekevvaru,2020,5.8,Anil Ravipudi,"Mahesh Babu,Rashmika Mandanna",9500,37389889.0,"AK Entertainments, G. Mahesh Babu Entertainment, Sri Venkateswara Creations",169,"Action, Comedy, Drama",Telugu
+The Family Star,2024,5.4,Parasuram,"Mrunal Thakur,Vijay Deverakonda,Jagapathi Babu",5500,200740.0,"Dil Raju Productions, Sri Venkateshwara Creations",159,"Action, Drama, Romance",Telugu
+Mad,2023,7.4,Kalyan Shankar,"Ravi Anthony,Raghu Babu",2500,24867.0,"Fortune Four Cinemas, Haarika & Hassine Creations, Sithara Entertainments",127,Comedy,Telugu
+Ala Vaikunthapurramuloo,2020,7.3,Trivikram Srinivas,"Allu Arjun,Pooja Hegde",25000,28477890.0,"Geetha Arts, Haarika & Hassine Creations",163,"Comedy, Drama, Romance",Telugu
+Surya's Saturday,2024,7.0,Vivek Athreya,Harsh Roshan,9100,370407.0,DVV Entertainment,166,"Crime, Drama, Thriller",Telugu
+Hi Nanna,2023,8.2,Shouryuv,"Mrunal Thakur,Kiara Khanna",20000,210780.0,Vyra Entertainments,155,"Drama, Family, Romance",Telugu
+Guntur Kaaram,2024,5.4,Trivikram Srinivas,"Mahesh Babu,Meenaakshi Chaudhary",25000,608300.0,"Haarika & Hassine Creations, Sithara Entertainments",159,"Action, Drama",Telugu
+Shivangi Lioness,2025,8.1,Devaraj Bharani Dharan,Unknown,1600,366674.0,First Copy Movies,140,"Drama, Thriller",Telugu
+Gaami,2024,6.4,Vidyadhar Kagita,"Vishwak Sen,Mohammad Samad",2000,76717.0,"Clown Pictures, Karthik Kult Kreations, Swetha Vahini Studios",147,"Mystery, Sci-Fi, Thriller",Telugu
+HIT: The 2nd Case,2022,7.1,Sailesh Kolanu,"Adivi Sesh,Meenaakshi Chaudhary,Rao Ramesh",7600,742389.0,"Wall Poster Cinema, B4U Motion Pictures",150,"Drama, Mystery, Thriller",Telugu
+Magadheera,2009,7.7,S.S. Rajamouli,"Ram Charan,Kajal Aggarwal,Dev Gill",26000,481860.0,Geetha Arts,166,"Drama, Fantasy, Romance",Telugu
+Godfather,2022,5.1,Mohan Raja,Salman Khan,7900,18737287.0,"Konidela Production Company, Super Good Films",157,"Action, Crime, Drama",Telugu
+Laila,2025,2.5,Ram Narayan,"Sunaina Badam,Mallesh Balast,Kamakshi Bhaskarla",500,16247.0,Shine Screens,135,"Comedy, Drama, Romance",Telugu
+Baby,2023,7.1,Sai Rajesh Neelam,"Anand Deverakonda,Vaishnavi Chaitanya,Viraj Ashwin",8700,55115.0,Mass Movie Makers,175,"Drama, Romance",Telugu
+Skanda- The Attacker,2023,4.2,Boyapati Srinu,"Ram Pothineni,Saiee Manjrekar",3100,56591.0,"Srinivasaa Silver Screen, Zee Studios",167,"Action, Drama, Romance",Telugu
+Arya 2,2009,7.5,Sukumar,"Allu Arjun,Kajal Aggarwal,Navdeep",8100,481860.0,Aditya Arts,155,"Action, Romance",Telugu
+Arjun Reddy,2017,7.9,Sandeep Reddy Vanga,"Vijay Deverakonda,Shalini Pandey,Jia Sharma",29000,145522.0,Bhadrakali Pictures,182,"Drama, Romance",Telugu
+Rangasthalam,2018,8.2,Sukumar,"Ram Charan,Samantha Ruth Prabhu",29000,551820.0,Mythri Movie Makers,170,"Period Drama, Action, Drama",Telugu
+Mazaka,2025,5.0,Trinadha Rao Nakkina,"Murli Sharma,Sundeep Kishan",351,30139.0,"AK Entertainments, Hasya Movies, Zee Studios",128,Comedy,Telugu
+Adipurush,2023,2.7,Om Raut,"Kriti Sanon,Saif Ali Khan",135000,1077952.0,"RKB Creative, Retrophiles, T-Series Films",179,"Epic, Action, Drama",Telugu
+Krack,2021,6.9,Gopichand Malineni,"Ravi Teja,Shruti Haasan,Sudhakar Komakula",7600,10435375.0,Saraswathi Films Division,154,"Action, Drama",Telugu
+Geetha Govindam,2018,7.7,Parasuram,"Vijay Deverakonda,Rashmika Mandanna",17000,320366.0,GA2 Pictures,142,"Comedy, Drama, Romance",Telugu
+Tantra,2024,5.1,Srinivas Gopisetti,"Ananya Nagalla,Dhanush Raghumudri,Temper Vamsi",2400,1021.0,"Be The Way Films, First Copy Movies, Vizag Film Factory",136,Horror,Telugu
+Maharshi,2019,7.1,Vamshi Paidipally,"Mahesh Babu,Allari Naresh,Pooja Hegde",11000,595200.0,"PVP Cinema, Sri Venkateswara Creations, Vyjayanthi Movies",176,"Action, Drama",Telugu
+Bharat Ane Nenu,2018,7.4,Koratala Siva,"Mahesh Babu,Kiara Advani,Prakash Raj",19000,3276257.0,DVV Entertainment,173,"Action, Drama, Thriller",Telugu
+Jersey,2019,8.5,Gowtam Tinnanuri,Shraddha Srinath,25000,204669.0,Sithara Entertainments,157,"Drama, Sport",Telugu
+Naa Peru Surya Na Illu India,2018,6.7,Vakkantham Vamsi,"Allu Arjun,Arjun Sarja",8800,292395.0,Ramalakshmi Cine Creations,163,"Drama, Action",Telugu
+Eagle,2024,5.9,Karthik Gattamneni,"Ravi Teja,Anupama Parameswaran",4900,76565.0,People Media Factory,159,"Action, Thriller",Telugu
+Mangalavaram,2023,6.8,Ajay Bhupathi,"Payal Rajput,Nandita Shwetha,Divya Pillai",3800,39204.0,"A Creative Works, Mudhra Creative Works",149,"Action, Horror, Thriller",Telugu
+Racharikam,2025,7.8,Suresh Lankalapalli,"Mahaboob Basha,Vijay Ram Raju,Apsara Rani",2100,1501016.5,Chill Bross Entertainments,135,Romance,Telugu
+Eega,2012,7.7,S.S. Rajamouli,Samantha Ruth Prabhu,29000,481860.0,"PVP Cinema, Vaarahi Chalana Chitram, Vel Records",145,"Drama, Fantasy, Musical",Telugu
+Pokiri,2006,8.0,Puri JAgannadh,"Mahesh Babu,Ilean Dcruz,Prakash Raj",16000,93651.0,"Indira Productions, Vaishno Academy",164,"Action, Crime, Thriller",Telugu
+Yashoda,2022,6.5,Harish NarayanK. Hari Shankar,"Samantha Ruth Prabhu,Unni Mukundan,Varalaxmi Sarathkumar",12000,267026.0,Sridevi Movies,135,"Crime, Sci-Fi, Thriller",Telugu
+Tillu Square,2024,6.6,Mallik Ram,"Anupama Parameswaran,Sidhu Jonnalagadda,Priyanka Jawalkar",3400,2250679.0,"Fortune Four Cinemas, Sithara Entertainments",137,"Crime, Drama, Romance",Telugu
+Mithunam,2012,8.1,Tanikella Bharani,"S.P. Balasubrahmanyam,Alkshmi,Balasubramanyam",383,10950395.0,AMR Productions,120,"Drama, Family",Telugu
+Veera Simha Reddy,2023,4.8,Gopichand Malineni,"Nandamuri Balakrishna,Shruti Haasan,Honey Rose",6500,290134.0,Mythri Movie Makers,170,"Action, Drama",Telugu
+Gandeevadhari Arjuna.,2023,5.4,Praveen Sattaru,"Lavanya Tripathi,Sakshi Vaidya",4400,29952.0,"Cloud9 Studio, Film the Agency, Sri Venkateswara Cine Chitra",137,"Action, Thriller",Telugu
+Siddharth Roy,2024,6.3,V Yeshasvi,"Gaurav Mahaur,Kalyani Natarajan,Tanvi Negi",2900,616333.0,"Shree Radha Damodar Studios, Vihaan & Vihin Creations",148,"Drama, Romance",Telugu
+Deyyam,2021,7.0,Ram Gopal Varma,"Tanikella Bharani,Swathi Deekshith,Swati Dixit",923,1021.0,"Nattis Entertainments, Pegasus Cinecorp",98,Horror,Telugu
+Jodhaa Akbar,2008,7.5,Ashutosh Gowariker,"Hrithik Roshan,Aishwarya Rai Bachchan,Sonu Sood",36000,26935618.0,"Ashutosh Gowariker Productions, UTV Motion Pictures",213,"History, Romance, War",Hindi
+Chhichhore,2019,8.3,Nitesh Tiwari,"Sushant Singh Rajput,Shraddha Kapoor,Varun Sharma",68000,3311391.0,"Fox STAR Studios, Fox STAR Studios, Nadiadwala Grandson Entertainment",143,"Comedy, Drama, Romance",Hindi
+Laila Majnu,2018,7.7,Sajid Ali,"Avinash Tiwary,Triptii Dimri,Sumit Kaul",8300,481860.0,"Balaji Telefilms, KJ Productions, Pi Films",140,"Tragic Romance, Drama, Romance",Hindi
+Drishyam 2,2022,8.2,Abhishek Pathak,"Ajay Devgn,Akshaye Khanna",49000,2973347.0,"Viacom18 Studios, Panorama Studios, T-Series Films",140,"Drama, Mystery, Thriller",Hindi
+Pathan,2023,5.8,Siddharth Anand,"Shah Rukh Khan,Deepika Padukone,John Abraham",161000,112583450.0,Yash Raj Films,146,"Action, Adventure, Thriller",Hindi
+Ghajini,2008,7.4,A.R. Murugadoss,"Aamir Khan,Asin Thottumkal,Jiah Khan",69000,38316584.0,Geetha Arts,186,"Action, Mystery, Thriller",Hindi
+Gangubai Kathiawadi,2022,7.8,Sanjay Leela Bhansali,"Alia Bhatt,Shantanu Maheshwari,Vijay Raaz",64000,3271210.0,"Bhansali Productions, Pen Studios",152,"Biography, Crime, Drama",Hindi
+Article 370,2024,7.8,Aditya Suhas Jambhale,"Yami Gautam,Vaibhav Tatwawadi",25000,13222021.0,"B62 Studios, Jio Studios",158,"Action, Drama, Thriller",Hindi
+Welcome Home,2020,7.3,Pushkar Sunil Mahabal,"Kashmira Irani,Swarda Thigale,Shashi Bhushan",5200,1444020.0,"Monolith, Playtime Creations",126,"Drama, Horror, Thriller",Hindi
+Don 2,2011,7.1,Farhan Akhtar,"Shah Rukh Khan,Florian Lukas,Om Puri",60000,6913518.0,"Excel Entertainment, Landmark Production, Pixion Studio",148,"Action, Crime, Thriller",Hindi
+Chup,2022,7.5,R Balki,"Dulquer Salmaan,Shreya Dhanwanthary,Sunny Deol",26000,1154366.0,Hope Productions,135,"Horror, Mystery, Thriller",Hindi
+The Kashmir Files,2022,8.5,Vivek Agnihotri,"Mithuna Chakraborty,Anupam kher,Darshan kumaar",576000,24821898.0,"Zee Studios, Abhishek Agarwal Arts, I Am Buddha",170,"Drama, Tragedy",Hindi
+Mohabbatein,2000,7.0,Aditya Chopra,"Amitabh Bachchan,Shah Rukh Khan,Aishwarya Rai Bachchan",35000,4279351.0,Yash Raj Films,216,"Drama, Musical, Romance",Hindi
+Laal Singh Chaddha,2022,5.6,Advait Chandan,"Aamir Khan,Ahmad ibn Umar,Kareena kapoor",180000,12093536.0,"Aamir Khan Productions, Nagaada Film Studio, Viacom18 Studios",159,"Comedy, Drama, Romance",Hindi
+Piku,2015,7.6,Shoojit Sircar,"Deepika Padukone,Amitabh Bachchan,Irrfan Khan",35000,2452343.0,"MSM Motion Pictures, Rising Sun Films, Saraswati Entertainment",123,"Adventure, Comedy, Drama",Hindi
+I Want to Talk,2024,7.1,Shoojit Sircar,"Abhishek Bachchan,Ahilya Bamroo,Nirvan Patnaik",2100,14223.0,"Kino Works, Rising Sun Films",122,Drama,Hindi
+Sultan,2016,7.1,Ali Abbas Zafar,"Salman Khan,Anushka Sharma,Randeep Hooda",55000,98251790.0,Yash Raj Films,170,"Drama, Romance, Sport",Hindi
+Gadar2,2023,5.1,Anil Sharma,"Sunny Deol,Ameesha Patel,Utkarsh Sharma",23000,1740275.0,"Anil Sharma Productions, M.M. Moviez, Zee Studios",170,"Adventure, Drama, Thriller",Hindi
+The Crew,2024,5.8,Rajesh A Krishnan,"Kareena Kapoor,Kriti Sanon",37000,4006016.0,"Anil Kapoor Film Company, Balaji Films",118,"Satire, Comedy, Drama",Hindi
+Ugly,2013,7.9,Anurag Kashyap,"Rahul Bhat,Ronit Roy,Tejaswini Kolhapure",24000,1061366.5,"DAR Motion Pictures, Phantom Films",128,"Drama, Mystery, Thriller",Hindi
+Welcome,2007,7.1,Anees BazmeeMayur K. Barot,"Akshay Kumar,Katrina Kaif,Nana Patekar",27000,31203567.0,"A.G. Films, Base Industries Group, Indian Film Company (II)",150,"Crime, Drama, Romance",Hindi
+Kabhi Khushi Kabhie Gham...,2001,7.4,Karan Johar,"Shah Rukh Khan,Amitabh Bachchan",59000,11336308.0,Dharma Productions,210,"Drama, Musical, Romance",Hindi
+Savi,2024,6.1,Abhinay Deo,"Divya Khossla,Harshvardhan Rane,Mairaaj Kakkar",35000,7399.0,"Vishesh Entertainment, Mishty Productions, Super Cassettes Industries Limited (T-Series)",126,"Drama, Romance, Thriller",Hindi
+Dilwale,2015,5.1,Rohit Shetty,"Shah Rukh Khan,Varun Dhawan",40000,31994323.0,"Red Chillies Entertainment, Redchillies.VFXRohit Shetty Productions",158,"Comedy, Drama, Romance",Hindi
+Pink,2016,8.0,Aniruddha Roy Chowdhury,"Amitabh Bachchan,Taapsee Pannu,Kirti Kulhari",50000,180180.0,"NH Studioz, Rashmi Sharma Telefilms",136,"Crime, Drama, Thriller",Hindi
+Mom,2017,7.2,Ravi Udyawar,"Sajal Ali,Akshaye Khanna",13000,20642399.0,Betterfly Films,146,"Crime, Drama, Thriller",Hindi
+Bhakshak,2024,7.2,Pulkit,"Bhumi Pednekar,Sanjay Mishra,Aditya Srivastav",7200,131028.0,Red Chillies Entertainment,134,"Crime, Drama",Hindi
+Bade Miyan Chote Miyan,2024,3.7,Ali Abbas Zafar,"Akshay Kumar,Prithviraj Sukumaran,Tiger Shroff",39000,2635333.0,"AAZ Films, Pooja Entertainment & Films",163,"Adventure, Sci-Fi, Thriller",Hindi
+An Action Hero,2022,7.0,Anirudh Iyer,"Ayushmann Khurrana,Jaideep Ahlawat,Gautam Joglekar",33000,202678.0,"4K Inc, Cars on Film, Colour Yellow Productions",130,"Comedy, Crime, Thriller",Hindi
+A Wednesday,2008,8.1,Neeraj PandeyRitesh Kumar,"Anupam Kher,Naseeruddin Shah,Virendra Saxena",84000,3256911.0,"Anjum Rizvi Film Company, Friday Filmworks, UTV Motion Pictures",104,"Drama, Mystery, Thriller",Hindi
+Despatch,2024,4.3,Kanu Behl,"Manoj Bajpayee,Shahana Goswami,Arrchita Agarwaal",4400,366674.0,"Clockwork Film, RSVPSkywalk Films",153,"Drama, Thriller",Hindi
+Agni,2024,7.2,Rahul Dholakia,"Pratik Gandhi,Divyendu Sharma,Jitendra Joshi",15000,595200.0,Excel Entertainment,122,"Action, Drama",Hindi
+Dhoom:3,2013,5.4,Vijay Krishna Acharya,"Aamir Khan,Katrina Kaif,Abhishek Bachchan",51000,88031955.0,"Yash Raj Films, Counter, Punch Studios, Curbside Films",172,"Crime, Drama, Thriller",Hindi
+Sanju,2018,7.6,Rajkumar Hirani,"Ranbir Kapoor,Paresh Rawal,Manisha Koirala",64000,76693052.0,"Fluiidmask Studios, Rajkumar Hirani Films, Vinod Chopra Productions",155,"Biography, Comedy, Drama",Hindi
+Bajirao Mastani,2015,7.3,Sanjay Leela Bhansali,"Ranveer Singh,Deepika Padukone,Priyanka Chopra Jonas",40000,11351628.0,"Bhansali Productions, Eros Worldwide",158,"History, Romance, War",Hindi
+Ek Tha Tiger,2012,5.7,Kabir Khan,"Salman Khan,Katrina Kaif,Girish Karnad",40000,5543117.0,"Counter, Punch Studios, Fantastic Films, Prime Focus",132,"Drama, Romance, Thriller",Hindi
+Bhaag Milkha bhaag,2013,8.2,Rakeysh Omprakash Mehra,"Farhan Akhtar,Kousi Orfahli,Deepak Singh Rawat",74000,17551296.0,"Rakeysh Omprakash Mehra Pictures, Viacom18 Motion Pictures",186,"Biography, Drama, Sport",Hindi
+Hichki,2018,7.5,Siddharth P Malhotra,"Riya Shukla,Rani Mukerji,Rohit Saraf",15000,26055222.0,Yash Raj Films,116,"Comedy, Drama",Hindi
+Sri,2024,7.4,Tushar Hiranandani,Rajkummar Rao,14000,137508.0,"Alphaneon Studioz, Chalk and Cheese Films, T-Series Films",134,"Biography, Drama",Hindi
+Do Aur Do Pyaar,2024,6.4,Shirsha Guha Thakurta,"Vidya Balan,Pratik Gandhi",12000,22232.0,"Applause Entertainment Ltd.Ellipsis Entertainment, Post Cartel",140,"Comedy, Drama, Romance",Hindi
+Ra.One,2011,4.9,Anubhav Sinha,"Shah Rukh Khan,Kareena Kapoor,Arjun Rampal",49000,35911689.0,"Red Chillies Entertainment, Eros Worldwide, Prana Studios",156,"Action, Sci-Fi, Thriller",Hindi
+Shershaah,2021,8.3,Vishnuvardhan,"Sidharth Malhotra,Kiara Advai, Shiv Panditt",132000,1738671.0,"Dharma Productions, Kaash Entertainment",135,"Biography, Drama, War",Hindi
+Bajrangi Bhaijaan,2015,8.1,Kabir Khan,"Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui",104000,121126188.0,"Eros Worldwide, Eruk Films, Kabir Khan Films",163,"Adventure, Comedy, Drama",Hindi
+Uri: The Surgical Strike,2019,8.2,Aditya Dhar,"Vicky Kaushal,Paresh Rawal,Mohit Raina",76000,39346577.0,"Bulb Chamka, RSVP",138,"Drama, History, War",Hindi
+Rang De Basanti,2006,8.1,Rakeysh Omprakash Mehra,"Aamir Khan,Soha Ali Khan",124000,10800778.0,"ROMPRakeysh Omprakash Mehra Pictures, UTV Motion Pictures",167,"Comedy, Crime, Drama",Hindi
+Bholaa,2023,5.8,Ajay Devgn,"Ajay Devgn,Abhishek Bachchan",23000,137987.0,"Ajay Devgn Ffilms, Archis Films, Dream Warrior Pictures",144,"Crime, Drama, Thriller",Hindi
+Sir,2018,7.7,Rohena Gera,"Tillotama Shome,Vivek Gomber,Geetanjali Kulkarni",9100,1050318.0,"Ciné-Sud Promotion, Inkpot Films Private Limited",99,"Drama, Romance",Hindi
+Kick,2014,6.0,Sajid Nadiadwala,"Salman Khan,Jacqueline Fernandez,Nawazuddin Siddiqui",74000,43996483.0,"Muranów, Nadiadwala Grandson Entertainment, Prime Focus World",146,"Comedy, Crime, Thriller",Hindi
+War,2019,6.6,Siddharth Anand,"Hrithik Roshan,Tiger Shroff,Vaani Kapoor",36000,67179155.0,"Reverie Entertainment, Yash Raj Films",151,"Action, Adventure, Thriller",Hindi
+The Sabarmati Report,2024,6.4,Dheeraj Sarna,"Vikrant Massey,Raashi Khanna,Ridhi Dogra",24000,77045.0,"Moral of the Story, Balaji Motion Pictures, Balaji Motion Pictures",127,"Crime, Drama, Thriller",Hindi
+Ground Zero,2025,7.6,Tejas Prabha Vijay Deoskar,"Emraan Hashmi,Sai Tamhankar,Aeklavya Tomer",2800,13197.0,"Excel Entertainment, Talisman Films",134,"Action, Drama, History",Hindi
+Vikram Vedha,2022,7.1,GayatriPushkar,"Saif Ali Khan,Hrithik Roshan,Radhika Apte",25000,8234166.0,"Y Not Studios, Friday Filmworks, T-Series",160,"Crime, Drama, Thriller",Hindi
+Ohm Shanti Ohm,2007,6.8,Farah Khan,"Shah Rukh Khan,Deepika Padukone,Arjun Rampal",52000,39997274.0,Red Chillies Entertainment,162,"Musical, Romance, Thriller",Hindi
+Dhoom 2,2006,6.6,Sanjay Gadhvi,"Hrithik Roshan,Abhishek Bachchan,Aishwarya Rai Bachchan",31000,32396427.0,Yash Raj Films,152,"Action, Crime, Thriller",Hindi
+Tere Naam,2003,7.2,Satish Kaushik,"Salman Khan,Bhoomika Chawla,Sachin Khedekar",22000,2663172.0,"MD Productions, Orion Pictures",132,"Action, Drama, Romance",Hindi
+Only One Man Is Enough,2023,8.0,Apoorv Singh Karki,"Manoj Bajpayee,Adrija Sinha,Surya Mohan Kulshreshtha",30000,327.0,"Bhanushali Studios Limited, Practical Productions, Zee Studios",132,"Crime, Drama, Thriller",Hindi
+Rocky Aur Rani Kii Prem Kahaani,2023,6.5,Karan Johar,"Ranveer Singh,Alia Bhatt",44000,5627462.0,Dharma Productions,168,"Drama, Family, Romance",Hindi
+Tiger 3,2023,5.7,Maneesh Sharma,"Salman Khan,Katrina Kaif,Emraan Hashmi",55000,11713932.0,Yash Raj Films,155,"Action, Adventure, Thriller",Hindi
+Munna Bhai M.B.B.S.,2003,8.1,Rajkumar Hirani,"Sanjay Dutt,Arshad Warsi,Gracy Singh",92000,3137716.0,Vinod Chopra Productions,156,"Drama, Comedy",Hindi
+Pihu,2016,6.7,Vinod Kapri,"Rahul Bagga,Pihu Myra Vishwakarma,Prerna Vishwakarma",3100,44145.0,"Jio Studios, RSVPRoy Kapur Films",91,"Drama, Thriller",Hindi
+Yodha,2024,5.7,Sagar AmbrePushkar Ojha,"Sidharth Malhotra,Raashi Khanna,Disha Patani",8900,469958.0,"Amazon Prime Video, Dharma Productions, Mentor Disciple Films",130,"Action, Drama, Thriller",Hindi
+Radhe,2021,1.8,Prabhu Deva,"Salman Khan,Disha Patani,Randeep Hooda",181000,1900312.0,"Sohail Khan Production, Reel Life Production, Salman Khan Films",109,"Action, Thriller",Hindi
+Dil Bechara,2020,8.3,Mukesh Chhabra,"Sushant Singh Rajput,Sanjana Sanghi,Sahil Vaid",136000,45171.0,Fox STAR Studios,101,"Comedy, Drama, Romance",Hindi
+Sadak 2,2020,1.2,Mahesh Bhatt,"Sanjay Dutt,Alia Bhatt,Aditya Roy Kapoor",97000,2073.0,"Fox STAR Studios, Vishesh Films",133,"Action, Drama",Hindi
+Barfi!,2012,8.1,Anurag Basu,"Ranbir Kapoor,Priyanka Chopra Jonas",90000,4490134.0,"UTV Motion Pictures, Ishana Movies",151,"Comedy, Drama, Romance",Hindi
+Chak De! India,2007,8.1,Shimit Amin,"Shah Rukh Khan,Vidya Malvade,Sagarika Ghatge",87000,21505244.0,"Docklands Studios Melbourne, Times Square Alliance, Yash Raj Films International Ltd.",153,"Drama, Family, Sport",Hindi
+The Kerala Story,2023,6.9,Sudipto SenVipul Amrutlal Shah,"Adah Sharma,Yogita Bihani,Sonia Balani",75000,122085.0,Sunshine Pictures,138,Drama,Hindi
+Coolie No. 1,2020,4.2,David Dhawan,"Varun Dhawan,Sara Ali Khan,Paresh Rawal",75000,5124512.5,"Pooja Entertainment & Films, Puja Films",134,"Action, Comedy, Romance",Hindi
+Queen,2013,8.1,Vikas Bahl,"Kangana Ranaut,Rajkummar Rao,Lisa Haydon",70000,502391.0,"Viacom18 Motion Pictures, New Amsterdam Film Company, Phantom Films",146,"Adventure, Comedy, Drama",Hindi
+M.S. Dhoni: The Untold Stor,2016,8.0,Neeraj Pandey,"Sushant Singh Rajput,Kiara Advani,Disha Patani",72000,28903047.0,"Adarsh Telemedia, Fox STAR Studios, Friday Filmworks",184,"Biography, Drama, Sport",Hindi
+Sachein,2005,7.4,John Mahendran,"Joseph Vijay,Genelia Deshmukh,Bipasha Basu",7700,320366.0,V. Creations,145,"Comedy, Drama, Romance",Tamil
+Vikram,2022,8.3,Lokesh Kanagaraj,"Kamal Haasan,Vijay Sethupathi,Fahadh Faasil",81000,29837637.0,Raajkamal Films International,175,"Action, Crime, Thriller",Tamil
+Meiyazhagan,2024,8.4,C. Prem Kumar,"Devadarshini Chetan,Indumathy Manikandan",14000,393589.0,2D Entertainment,177,"Period Drama, Drama, Family",Tamil
+The Greatest of All Time,2024,5.7,Venkat Prabhu,"Joseph Vijay,Prabhu Deva",23000,4004296.0,AGS Entertainment,183,"Action, Thriller",Tamil
+Leo,2023,7.2,Lokesh Kanagaraj,"Joseph Vijay,Sanjay Dutt,Trisha Krishnan",67000,6978436.0,"Seven Screen Studio, The Route",164,"Crime, Drama, Thriller",Tamil
+HMM - Hug Me More,2024,9.8,Narasimman Packirisamy,"Narasimman Packirisamy,Anurag Mandal,Sharmila",1100,1021.0,Bright Entertainment Times,102,Horror,Tamil
+Gentlewoman,2025,6.1,Joshua Sethuraman,"Lijo Mol Jose,Hari Krishnan,Losliya Mariyanesan",2800,50013.0,"Komala Hari Pictures, One Drop Ocean Pictures",113,Drama,Tamil
+Sorgavaasal,2024,6.6,Sidharth Vishwanath,Hakkim Shah,1400,14292.0,"Swipe Right Studio, Think Studios",138,"Crime, Drama, Thriller",Tamil
+96,2018,8.5,C. Prem Kumar,"Vijay Sethupathi,Trisha Krishnan,Adithya Bhaskar",41000,616333.0,"Goldmines Telefilms, Madras Enterprises",158,"Drama, Romance",Tamil
+Sarkar,2018,6.7,A.R. Murugadoss,"Joseph Vijay,Keerthy Suresh",23000,2278361.0,Sun Pictures,163,"Drama, Action",Tamil
+Visaaranai,2015,8.4,Vetrimaaran,"Dinesh,Samuthirakani,Anandhi",13000,1943.0,"Grass Root Film Company, Wunderbar Films",117,"Crime, Drama, Thriller",Tamil
+Kanguva,2024,4.5,Siva,"Disha Patani,Bobby Deol",15000,741268.0,"Studio Green, UV Creations",152,"Drama, Fantasy, Thriller",Tamil
+Soorarai Pottru,2020,8.7,Sudha Kongara,"Suriya,Aparna Balamurali,Paresh Rawal",127000,50013.0,"2D Entertainment, Sikhya Entertainment, Goldmines Telefilms",153,Drama,Tamil
+Por Thozhil,2023,8.0,Vignesh Raja,"Lisha Chinnu,Ashok Selvan",12000,350534.0,"Applause Entertainment Ltd.E4 Experiments, Eprius Studio",147,"Action, Crime, Thriller",Tamil
+See Saw,2025,7.3,Guna Subramaniam,"Natarajan Subramaniam,Nishanth Russo,Padine Kumar",1100,987421.0,Vidiyal Studios,145,"Crime, Drama, Thriller",Tamil
+Vettaiyan,2024,7.0,T.J. Gnanavel,"Amitabh Bachchan,Fahadh Faasil",39000,2397623.0,Lyca Productions,163,"Action, Crime, Drama",Tamil
+Tharaipadai,2025,8.6,Ram Prabha,"Sai Dhanyaa,Jeeva,Prajin Padmanabhan",775,481860.0,Stonex,104,Unknown,Tamil
+Parking,2023,7.8,Ramkumar Balakrishnan,"Harish Kalyan,Indhuja Ravichandran",12000,2257.0,"Passion Studios, Soldiers' Factory",127,"Drama, Thriller",Tamil
+Lubber Pandhu,2024,8.1,Tamizharasan Pachamuthu,"Devadarshini Chetan,Jensan Diwakar",6000,179459.0,Prince Pictures,146,"Comedy, Drama, Sport",Tamil
+Jailer,2023,7.1,Nelson Dilipkumar,"Rajiikanth,Mohanla,Shivarajkumar",40000,4817871.0,Sun Pictures,168,"Comedy, Crime, Thriller",Tamil
+Vikram Vedha,2017,8.2,GayatriPushkarGowtham Selvaraj,"Vijay Sethupathi,Shraddha Srinath",53000,546792.0,"Think Music, Y Not Studios",147,"Crime, Drama, Thriller",Tamil
+Super Deluxe,2019,8.2,Thiagarajan Kumararaja,"Vijay Sethupathi,Fahadh Faasil,Samantha Ruth Prabhu",19000,273191.0,"Tyler Durden and Kino Fist, East West Dream Works Entertainment, Alchemy Vision Workz",176,"Crime, Drama, Thriller",Tamil
+Raayan,2024,6.5,Dhanush,"Aparna Balamurali,Devadarshini Chetan",11000,1513558.0,"Sun Pictures, Sun TV Network",145,"Crime, Drama, Thriller",Tamil
+Thangalaan,2024,6.6,Pa. Ranjith,"Parvathy Thiruvothu,Malavika Mohanan",6700,504376.0,"Studio Green, Neelam Productions",156,"Drama, Fantasy, History",Tamil
+Dada,2023,8.1,Ganesh K. Babu,Aparna Das,7000,22125.0,Olympia Movies,132,"Drama, Family, Romance",Tamil
+Chekka Chivantha Vaanam,2018,7.2,Mani Ratnam,"Arvind Swamy,Arun Vijay",7200,801810.0,"Lyca Productions, Madras Talkies",146,"Action, Drama, Thriller",Tamil
+Ghajini,2005,7.6,A.R. Murugadoss,Asin Thottumkal,16000,481860.0,Leo Entertainment Pvt. Ltd.Sri Saravanaa Creaations,175,"Mystery, Romance, Thriller",Tamil
+Maanaadu,2021,8.2,Venkat Prabhu,Kalyani Priyadarshan,26000,565759.0,V House Productions,147,"Action, Adventure, Sci-Fi",Tamil
+Pizza,2012,7.9,Karthik Subbaraj,"Vijay Sethupathi,Ramya Nambeeshan,Aadukalam Naren",9200,85417.0,Thirukumaran Entertainment,127,"Horror, Mystery, Thriller",Tamil
+Enthiran,2010,7.2,S. Shankar,"Aishwarya Rai Bachchan,Danny Denzongpa",32000,3889511.0,"Sun Pictures, Utopia Films",155,"Action, Sci-Fi, Thriller",Tamil
+Kadhalikka Neramillai,2025,6.2,Kiruthiga Udhayanidhi,"Nithya Menen,Ravi Mohan",1800,70834.0,Red Giant Movies,140,Drama,Tamil
+Master,2021,7.4,Lokesh Kanagaraj,"Josheph Vijay,Vijay Sethupathi,Malavika Mohanan",86000,28692230.0,"X.B. Film Creators, Seven Screen Studio, B4U Motion Pictures",178,"Crime, Drama, Thriller",Tamil
+Indian 2,2024,3.8,S. Shankar,"Kamal Haasan,Rakul Preet Singh",16000,1883599.0,"Lyca Productions, Red Giant Movies",150,"Drama, Musical, Thriller",Tamil
+Mark Antony,2023,6.6,Adhik Ravichandran,Ritu Varma,6100,95956.0,Mini Studios,150,"Crime, Drama, Sci-Fi",Tamil
+Valimai,2022,6.0,H. Vinoth,"Ajith Kumar,Huma Qureshi,Kartikeya Gummakonda",21000,13276393.0,"Bayview Projects, Zee Studios",178,"Crime, Drama, Thriller",Tamil
+Vada Chennai,2018,8.4,Vetrimaaran,"Ameer Sultan,Radha Ravi",21000,472865.0,"Goldmines Telefilms, Grass Root Film Company, Lyca Productions",164,"Crime, Drama, Thriller",Tamil
+Beast,2022,5.2,Nelson Dilipkumar,"Joseph Vijay,Pooja Hegde",38000,18911959.0,Sun Pictures,155,"Comedy, Crime, Thriller",Tamil
+Thiruchitrambalam,2022,7.9,Mithran Jawahar,Nithya Menen,17000,5342111.0,Sun Pictures,131,"Drama, Musical, Romance",Tamil
+Asuran,2019,8.4,Vetrimaaran,"Manju Warrier,Prakash Raj",36000,379728.0,V. Creations,141,"Period Drama, Action, Drama",Tamil
+Bigil,2019,6.7,Atlee,"Joseph Vijay,Jackie Shroff",26000,2441136.0,AGS Entertainment,179,"Action, Drama, Sport",Tamil
+Mahaan,2022,7.7,Karthik Subbaraj,Dhruv Vikram,18000,2155981.5,Seven Screen Studios,163,"Action, Drama, Thriller",Tamil
+Ponniyin Selvan,2022,7.5,Mani RatnamSruti Harihara Subramanian,"Aishwarya Rai Bachchan,Trisha Krishnan",38000,21888295.0,"Lyca Productions, Madras Talkies, Zeal Z Entertainment services",167,"Epic, Action, Drama",Tamil
+Thevar Magan,1992,8.7,Bharathan,"Kamal Haasan,Shivaji Ganesan,Nassar",8500,56591.0,Raajkamal Films International,145,"Action, Drama, Romance",Tamil
+Karnan,2021,8.0,Mari Selvaraj,Rajisha Vijayan,24000,3817585.0,"V. Creations, Vvproduction",158,"Action, Drama",Tamil
+Mersal,2017,7.5,Atlee,"Joseph Vijay,Nithya Menen",40000,2287182.0,"Sri Thenandal Films, Goldmines Telefilms",172,"Action, Crime, Thriller",Tamil
+Nerkonda Paarvai,2019,7.7,H. Vinoth,"Ajith Kumar,Shraddha Srinath,Abhirami Venkatachalam",11000,768540.0,Bayview Projects,157,"Crime, Drama, Thriller",Tamil
+Vaathi,2023,7.3,Venky Atluri,"Samyuktha Menon,Sai Kumar",11000,424004.0,"Fortune Four Cinemas, Sithara Entertainments, Srikara Studios",139,"Period Drama, Action, Drama",Tamil
+Sarpatta Parambarai,2021,8.5,Pa. Ranjith,John Kokken,27000,1242577.5,"K9 Studios, Neelam Productions",173,"Action, Drama, Sport",Tamil
+Chithha,2023,8.2,S.U. Arun Kumar,"Sahasra Sree,Aafiyah Tasneem",8700,7664.0,Etaki Entertainment,140,"Drama, Thriller",Tamil
+Oh My Kadavule,2020,8.0,Ashwath Marimuthu,"Ashok Selvan,Ritika Singh,Vani Bhojan",5500,35668.0,"Axess Film Factory, Happy High Pictures",151,"Comedy, Fantasy, Romance",Tamil
+Theri,2016,7.3,Atlee,"Joseph Vijay,Samantha Ruth Prabhu,Amy Jackson",25000,678057.0,V. Creations,157,"Crime, Drama, Thriller",Tamil
+Anniyan,2005,8.3,S. Shankar,Prakash Raj,23000,987421.0,"Oscar Films International, Oscar Films",181,"Crime, Drama, Thriller",Tamil
+Mankatha,2011,7.7,Venkat Prabhu,"Ajith Kumar,Arjun Sarja,Trisha Krishnan",17000,1122247.0,Cloud Nine Movies,155,"Action, Crime, Thriller",Tamil
+Thunivu,2023,6.1,H. Vinoth,"Ajith Kumar,Manju Warrier",30000,1510268.0,"Bayview Projects, Zee Studios",145,"Action, Crime, Thriller",Tamil
+The Last Farmer,2021,8.7,M. Manikandan,"Vijay Sethupathi,Yogi Babu",6100,5800.0,Tribal Arts,122,Drama,Tamil
+Pariyerum Perumal,2018,8.7,Mari Selvaraj,Yogi Babu,19000,50013.0,Neelam Productions,154,Drama,Tamil
+24,2016,7.8,Vikram K. Kumar,"Samantha Ruth Prabhu,Nithya Menen",25000,336771.0,"2D Entertainment, Images and Worlds, MG Movies Productions",164,"Musical, Sci-Fi, Thriller",Tamil
+Thani Oruvan,2015,8.4,Mohan Raja,"Ravi Mohan,Arvind Swamy",23000,987421.0,AGS Entertainment,160,"Crime, Drama, Thriller",Tamil
+Ponniyin Selvan: Part II,2023,7.2,Mani RatnamSruti Harihara Subramanian,Ravi Mohan,19000,5035633.0,"Lyca Productions, Madras Talkies, Zeal Z Entertainment services",164,"Action, Adventure, Drama",Tamil
+Maanagaram,2017,8.1,Lokesh Kanagaraj,"Sundeep Kishan,Regena Cassandrra",8300,194871.5,"Potential Studios, AKS Media & Entertainment, Dream Warrior Pictures",137,"Action, Thriller",Tamil
+Bombay,1995,8.1,Mani Ratnam,"Arvind Swamy,Manisha Koirala",14000,616333.0,"Aalayam Productions, Amitabh Bachchan Corporation Limited (A.B.C.L.)Jhamu Sughand Productions",141,"Drama, Romance",Tamil
+Rajakili,2024,6.7,Umapathy Ramaiah,"Thambi Ramaiah,Deepa Shankar",589,481860.0,V House Productions,122,"Action, Drama, Family",Tamil
+Don,2022,6.8,Cibi Chakravarthi,Priyanka Arulmohan,12000,8287406.0,"Lyca Productions, Sivakarthikeyan Productions",165,"Comedy, Romance",Tamil
+NGK,2019,5.7,K. Selvaraghavan,"Sai Pallavi,Rakul Preet Singh",5600,430902.0,Dream Warrior Pictures,148,"Action, Drama, Thriller",Tamil
+Sura,2010,3.1,S.P. Rajkumar,"Joseph Vijay,Tamannaah Bhatia",9100,897497.0,Murugan Cine Arts,159,"Action, Comedy",Tamil
+Vaaranam Aayiram,2008,8.2,Gautham Vasudev Menon,"Suriya,Simran,Ramya",15000,921007.0,Aascar Film P.Photon Factory,169,"Drama, Musical, Romance",Tamil
+Vishwaroopam,2013,7.9,Kamal Haasan,"Pooja Kumar,Miles Anderson,Kamal Haasan",41000,791040.0,"Raajkamal Films International, PVP Cinema",148,"Action, Thriller",Tamil
+Varisu,2023,5.9,Vamshi Paidipally,"Joseph Vijay,Rashmika Mandanna",40000,2528333.0,"PVP Cinema, Sri Venkateswara Creations",169,"Action, Comedy, Drama",Tamil
+Thuppakki,2012,8.1,A.R. Murugadoss,"Joseph Vijay,Kajal Aggarwal,Vidyut Jammwal",40000,2130470.0,"V. Creations, Goldmines Telefilms, Krishwerkz Entertainment",165,"Action, Crime, Thriller",Tamil
+Kaththi,2014,8.1,A.R. Murugadoss,"Joseph Vijay,Samantha Ruth Prabhu,Neil Nitin Mukesh",32000,674359.0,"Ayngaran International, Lyca Productions",166,"Action, Drama",Tamil
+Thalaivi,2021,5.9,A.L. Vijay,"Kangana Ranaut,Aravind Swamy,Nassar",31000,791744.0,"Gothic Entertainment, Karma Media And Entertainment, Sprint Films",153,"Biography, Drama",Tamil
+The Legend,2022,4.7,JerryJoseph D. Sami,"Archana,Mayilsamy,Nassar",29000,9335.0,The Legend New Saravana Stores,161,"Drama, Romance, Thriller",Tamil
+2.O,2018,6.0,S. Shankar,"Akshay Kumar,Amy Jackson",29000,36945969.0,"Dakshaa, Double Negative (DNEG)Lyca Productions",148,"Fantasy, Sci-Fi, Thriller",Tamil
+Nayakan,1987,8.6,Mani Ratnam,"Kamal Haasan,Saranya Ponvannan,Delhi Ganesh",26000,481860.0,"Muktha Films, Sujatha Film",156,"Tragedy, Crime, Drama",Tamil
+I,2015,7.4,S. Shankar,"Amy Jackson,Suresh Gopi",25000,3200113.0,Aascar Film P.,188,"Romance, Sci-Fi, Thriller",Tamil
+Sivaji,2007,7.6,S. Shankar,Shriya Saran,23000,5871620.0,"A.V.M. Productions, Av, M Studio",188,"Crime, Drama, Thriller",Tamil
+Indian,1996,8.1,S. Shankar,"Kamal Haasan,Manisha Koirala",15000,184.0,"Jhamu Sughand Productions, Sri Surya Movies",185,"Drama, Musical, Thriller",Tamil
+Kabali,2016,6.1,Pa. Ranjith,"Winston Chao,Radhika Apte",15000,4388789.0,"Oveyen Studio, V. Creations",153,"Action, Crime, Drama",Tamil
+Aruvi,2016,8.3,Arun Prabhu Purushothaman,"Aditi Balan,Padmashri Mohammad Ali,Pradeep Anthony",15000,50013.0,Dream Warrior Pictures,130,Drama,Tamil
+Jilla,2014,6.2,R.T. Neason,"Joseph Vijay,Kajal Aggarwal",15000,11050289.0,"Super Good Films, Goldmines Telefilms",185,"Action, Crime, Drama",Tamil
+Hey Ram,2000,8.0,Kamal Haasan,"Kamal Haasan,Shah Rukh Khan,Rani Mukerji",15000,274675.0,Raajkamal Films International,186,"Crime, Drama, History",Tamil
+Pokkiri,2007,7.6,Prabhu Deva,"Joseph Vijay,Asin Thottumkal,Prakash Raj",14000,592400.0,Kanagarathna Movies,161,"Action, Crime, Thriller",Tamil
+Thalapathi,1991,8.5,Mani Ratnam,"Rajinikanth,Mammooty,shobana",14000,3146.0,"G.V. Films Ltd.Shradha Entertainers, Viva Films",157,"Action, Crime, Drama",Tamil
+Roja,1992,8.1,Mani Ratnam,"Arvind Swamy,Pankaj Kapur",14000,38090.5,Hansa Pictures (P) Ltd.Kavithalayaa Productions,137,"Drama, Romance, Thriller",Tamil
+Jigarthanda,2014,8.2,Karthik Subbaraj,"Bobby Simha,Lakshmi Menon",14000,24274.0,"Five Star Films, Group Company",171,"Comedy, Crime, Drama",Tamil
+The Seventh Sense,2011,6.6,A.R. Murugadoss,"Shruti Haasan,Johnny Tri Nguyen",14000,221894.0,"Makuta, Red Giant Movies, Red Giant",160,"Action, Sci-Fi, Thriller",Tamil
+Etharkkum Thunindhavan,2022,6.4,Pandiraj,Priyanka Arulmohan,14000,3266724.0,Sun Pictures,151,"Crime, Drama, Thriller",Tamil
+Veer - Vivegam,2017,5.2,Siva,"Ajith Kumar,Vivek Oberoi,Kajal Aggarwal",13000,1151913.0,Sathya Jyothi Films,149,"Action, Thriller",Tamil
+Petta,2019,7.1,Karthik Subbaraj,"Vijay Sethupathi,Nawazuddin Siddiqui",13000,1996655.0,Sun Pictures,171,"Action, Drama",Tamil
+Irudhi Suttru,2016,7.6,Sudha Kongara,Radha Ravi,13000,94787.0,"Oveyen Studio, Rajkumar Hirani Films, Thirukumaran Entertainment",109,"Boxing, Drama, Sport",Tamil
+K.G.F: Chapter 1,2018,8.2,Prashanth Neel,"Yash,Srinidhi Shetty,Ramachandra Raju",105000,6421597.0,Hombale Films,154,"Crime, Drama, Thriller",Kannada
+Kaiva,2023,8.3,Jayathirtha,"Dharmendra Aras,Agratha Ashok,Anand Babu",69000,56591.0,Abhuvanasa creations,138,"Action, Drama, Romance",Kannada
+777 Charlie,2022,8.7,Kiranraj K,"Rakshit Shetty,Sangeetha Sringeri",43000,7529270.0,Paramvah Studios,136,"Adventure, Comedy, Drama",Kannada
+Martin,2024,2.2,A.P. Arjun,"Dhruva Sarja,Vaibhavi Shandilya,Sriram Reddy Polasane",36000,2155981.5,"Uday K Mehta Productions, Vasavi Enterprises",147,"Action, Drama, Thriller",Kannada
+VR (Vikrant Rona),2022,6.9,Anup Bhandari,"Nirup Bhandari,Neetha Ashok",29000,6020595.0,"Shalini Artss, Kichcha Creatiions",148,"Drama, Mystery, Thriller",Kannada
+RangiTaranga,2015,8.1,Anup Bhandari,"Nirup Bhandari,Radhika Narayan,Avantika Shetty",16000,481860.0,Sri Devi Entertainers,149,"Thriller, Mystery",Kannada
+Kabzaa,2023,4.7,R. ChandruManju MauryaShivu Hiremath,Shriya Saran,16000,56557.0,"Red Apple Movies, Shri Siddeshwara Enterprises",134,"Action, Crime, Thriller",Kannada
+Lucia,2013,8.3,Pawan Kumar,"Sathish Neenasam,Sruthi Hariharan,Achyuth Kumar",14000,481860.0,"Audience films, Creathma Productions, Spicy, Chakra Productions",135,"Drama, Sci-Fi, Thriller",Kannada
+Love Li,2024,6.4,Chethan Keshav,"Stefy Patel,Achyuth Kumar",13000,616333.0,Abhuvanasa creations,168,"Drama, Romance",Kannada
+Kranti,2023,5.1,V. Harikrishna,"Darshan Thoogudeep,Rachita Ram",11000,595200.0,Media House Studio,163,"Action, Drama",Kannada
+Pogaru,2021,3.6,Nanda Kishore,"Dhruva Sarja,Rashmika Mandanna,Sampath Raj",10000,31183.0,Sri Jagadguru Movies,160,Action,Kannada
+Ulidavaru Kandanthe,2014,8.4,Rakshit Shetty,"Rakshit Shetty,Rishab Shetty,Kishore Kumar",9800,987421.0,Suvin Cinemas,154,"Crime, Drama, Thriller",Kannada
+Garuda Gamana Vrishabha Vahana,2021,8.2,Raj B. Shetty,"Rishab Shetty,Gopalkrishna Deshpande",8700,987421.0,Lighter Buddha Films,151,"Crime, Drama, Thriller",Kannada
+Avane Srimannarayana,2019,7.6,Sachin RaviSachin,"Rakshit Shetty,Shanvi Srivastava,Achyuth Kumar",8600,59302.0,"Paramvah Studios, Pushkar Films, Sri Devi Entertainers",186,"Comedy, Drama, Fantasy",Kannada
+Uppi 2,2015,7.8,Upendra,"Kristina Akheeva,Parul Yadav",8500,2145878.0,Upendra Productions,135,"Action, Mystery, Thriller",Kannada
+James,2022,7.3,Chethan Kumar,"Puneeth Rajkumar,Priya Anand,Meka Srikanth",8500,39232.0,Kishore Productions,149,"Action, Comedy, Drama",Kannada
+Saptha Sagaradaache Ello - Side A,2023,8.2,Hemanth M. Rao,"Rakshit Shetty,Rukmini Vasanth",8500,37253.0,Paramvah Pictures,142,"Drama, Romance",Kannada
+O2,2024,6.6,RaghavPrashanth Raj,"Ashika Ranganath,Praveen Tej,Raghava Nayak",7900,481860.0,"PRK Productions, PRK Productions",105,"Romance, Thriller",Kannada
+Kirik Party,2016,8.2,Rishab Shetty,"Rakshit Shetty,Rashmika Mandanna,Samyuktha Hegde",7600,12195.0,Paramvah Studios,159,"Comedy, Drama, Romance",Kannada
+Dia,2020,8.0,K.S. Ashoka,"Kushee Ravi,Pruthvi Ambaar",7500,616333.0,"Klapboard Productions, Sri Swarnalatha Productions, Vibha Kashyap Productions [us]",137,"Drama, Romance",Kannada
+Ugramm,2014,8.0,Prashanth Neel,"Sri Murali,Thilak Shekar",7400,987421.0,Inkfinite Pictures,132,"Crime, Drama, Thriller",Kannada
+Bagheera,2024,6.7,D.R. Suri,"Sri Murali,Rukmini Vasanth,Prakash Raj",7400,13454.0,Hombale Films,158,Action,Kannada
+Ghost,2023,6.3,Srini,"Shivarajkumar,H.G. Dattareya,Jayaram",7200,8323.0,Sandesh Productions,132,"Action, Thriller",Kannada
+UI,2024,6.8,Upendra,"Pavan Acharya,Insane Ashraf",5700,55726.0,"Lahari Films, Venus Entertainers",135,"Action, Sci-Fi",Kannada
+Mayanagari,2023,4.0,Shankar Aradhya,"Anish Tejashwar,Teju,Saatvika",5100,481860.0,Sandalwood Pictures,137,Unknown,Kannada
+Yuvaratna,2021,6.3,Santhosh Ananddram,"Puneeth Rajkumar,Sayyeshaa Saigal,Sonu Gowda",5000,34007.0,Hombale Films,161,"Action, Drama",Kannada
+Love Mocktail,2020,8.2,Darling Krishna,"Darling Krishna,Milana Nagaraj,Amrutha Iyengar",4700,616333.0,"Krishna Talkies, B4U Motion Pictures",153,"Drama, Romance",Kannada
+Sapta Sagaradaache Ello: Side B,2023,8.0,Hemanth M. Rao,"Rakshit Shetty,Rukmini Vasanth",4600,36519.0,Paramvah Studios,148,"Action, Drama, Romance",Kannada
+Raajakumara,2017,7.9,Santhosh Ananddram,"Puneeth Rajkumar,Priya Anand",4500,42421.0,Hombale Films,148,"Action, Drama",Kannada
+Om,1995,8.9,Upendra,Sadhu Kokila,4300,16727123.0,Poornima Enterprises,150,"Crime, Drama, Romance",Kannada
+Ratnan Prapancha,2021,8.3,Rohith Padaki,"Dhananjaya,Umashree,Shruti",4300,1302293.0,KRG Studios,147,"Comedy, Drama, Family",Kannada
+Gowri,2024,7.4,AneeshIndrajit Lankesh,"Manasi Sudhir,Priyaka Upendra,Yogesh",4100,481860.0,Laughing Buddha Films,130,Family,Kannada
+Roberrt,2021,5.9,Tarun Sudhir,"Darshan Thoogudeep,Vinod Prabhakar,Asha Bhat",4100,481860.0,Umapathy Films,166,"Action, Comedy, Musical",Kannada
+Mungaru Male,2006,8.4,Yogaraj Bhat,"Ganesh,Pooja Gandhi,Anant Nag",4100,481860.0,E K Entertainers,143,"Comedy, Music, Romance",Kannada
+U Turn,2016,7.4,Pawan Kumar,"Shraddha Srinath,Roger Narayan,Radhika Narayan",4100,85417.0,"Audience films, Pawan Kumar Studios",120,"Horror, Mystery, Thriller",Kannada
+Upendra,1999,8.8,Upendra,"Upendra,Raveena Tandon,Prema",3900,366674.0,Srinivasa Productions,138,"Drama, Thriller",Kannada
+Tatsama Tadbhava,2023,7.5,Vishal Atreya,"Prajwal Devaraj,Meghana Raj,Dhaivik Anil",3800,185586.0,"Anvit Cinemas, PBStudios4",122,"Crime, Thriller",Kannada
+Godhi Banna Sadharna Mykattu,2016,8.6,Hemanth M. Rao,"Anant Nag,Rakshit Shetty,Sruthi Hariharan",3800,366674.0,"Pushkar Films, Lost & Found Films, Lost and Found Films",144,"Drama, Thriller",Kannada
+Kaatera,2023,7.2,Tarun Sudhir,"Darshan Thoogudeep,Vaijanath Biradar",3500,4128.0,Rockline Entertainment,183,Action,Kannada
+Kavaludaari,2019,7.9,Hemanth M. Rao,"Achyuth Kumar,Suman Ranganath,Anant Nag",3400,4629.0,PRK Productions,143,"Drama, Mystery, Thriller",Kannada
+Max,2024,7.1,Vijay Karthikeyan,"Sudeep,Varalaxmi Sarathkumar,Sunil",3400,31183.0,"Kichcha Creatiions, V Creations",132,Action,Kannada
+Prayashaha,2022,6.8,Ranjith Rao,"Rahul Amin,Krishnaa Bhat,Shanil Guru",3300,481860.0,Arha Creations,127,Unknown,Kannada
+Toby,2023,7.2,Basil Alchalakkal,"Yathish Baikampady,Naresh Bhat",3300,987421.0,"Lighter Buddha Films, Agastya Films, Coffee Gang Studio",155,"Crime, Drama, Thriller",Kannada
+Googly,2013,7.5,Pawan Wadeyar,"Kriti Kharbanda,Anant Nag",3300,149229.0,"Faamous Productions, Jayanna Combines",136,"Comedy, Romance",Kannada
+Banaras,2022,6.3,Jayathirtha,"Barkath Ali,Zaid Khan",3200,1501016.5,NK Production,150,Romance,Kannada
+Mandya,2025,6.6,Sanjay Niranjan,"Akshitaa Agnihotri,Gavie Chahal,Prakash Dhotre",3200,31183.0,Sanam Productions India,133,Action,Kannada
+BTS: Behind the Scenes,2024,8.3,"Apporva Bhardwaj,Kuldeep Cariappa,Prajwal Raj","Aahan,Koushik Gowda,Medini Kelamane",3200,481860.0,Satoir,150,Unknown,Kannada
+Nimma Vasthugalige Neeve Javaabdaararu,2025,7.3,Keshav Moorthy,"Apporva Bhaadwaj,Govind Madusudhan,Shilpa Manjunath",3200,987421.0,"Native Craft, Picture Shop",132,"Crime, Drama, Thriller",Kannada
+"Sarkari. Hi. Pra. Shale Kasaragodu, Koduge: Ramanna Rai",2018,8.7,Rishab Shetty,"Anant Nag,Ramesh Bhat",3100,54213.0,Rishab Shetty Films,147,Drama,Kannada
+Krishnam Pranaya Sakhi,2024,7.3,Srinivas Raju,"Malvika Nair,Sadhu Kokila",3100,126875.5,Trishul Entertainments,159,Comedy,Kannada
+GG - Gandhada Gudi,2022,8.9,Amoghavarsha,"Puneeth Rajkumar,Ashwini Puneeth Rajkumar",3000,1699551.0,"PRK Productions, Mudskipper, Mudskipper",99,"Documentary, Family, Musical",Kannada
+Bell Bottom,2019,8.1,Jayathirtha,"Rishab Shetty,Yograj Bhat",2900,189232.0,Golden Horse Cinema,130,"Comedy, Drama, Thriller",Kannada
+Hebbuli,2017,6.7,S KrishnaRudresh M. Gowda,Amala Paul,2900,38052.0,"S.R.V. Productions, Umapathy Films, V S International Films",141,"Action, Drama, Thriller",Kannada
+Thithi,2015,8.0,Raam Reddy,"Thammegowda S.,Channegowda,Abhishek H.N.",2900,50013.0,"Maxmedia, Prspctvs Productions",123,Drama,Kannada
+Super,2010,8.0,Upendra,"Upendra,Nayathara,Tulip Joshi",2800,50013.0,Rockline Productions,140,Drama,Kannada
+A: Film by Upendra,1998,8.7,"Gurukiran,R Raghunath,Rajaram","Upendra,Chandini,Archana",2700,50013.0,Unknown,150,Drama,Kannada
+Love Mocktail 2,2022,7.4,Darling Krishna,"Darling Krishna,Milana Nagaraj,Rachel David",2700,1845639.0,Krishna Talkies,140,"Drama, Romance",Kannada
+Mr. And Mrs. Ramchari,2014,7.3,Santhosh Ananddram,"Radhika Pandit,Achyuth Kumar",2700,616333.0,Jayanna Combines,156,"Drama, Romance",Kannada
+Kotigobba 3,2021,5.5,Shiva Karthik,"Aftab Shivdasani,Madonna Sebastian",2600,56591.0,"Ram Babu Productions, B4U Motion Pictures",140,"Action, Drama, Romance",Kannada
+Seetharaam Benoy Case Number Eighteen,2021,6.6,Deviprasad Shetty,"Vijay Raghavendra,Sathwik Hebbar,Bindu Raxidi",2600,481860.0,Elephant Path Film Factory,125,Crime,Kannada
+Simple Agi Ondh Love Story,2013,8.0,Suni,"Rakshit Shetty,Shwetha Srivatsav,Srinagar Kitty",2600,149229.0,Suvin Cinemas,130,"Comedy, Romance",Kannada
+Marichi,2023,5.8,Siddhruv Siddu,"Aaryan,Aruna Balaraj,Abhishek Das",2600,481860.0,SS REC Productions,129,Mystery,Kannada
+Pailwaan,2019,6.2,S Krishna,"Suniel Shetty,Aakanksha Singh",2500,44019.0,RRR Motion Pictures,166,"Action, Drama, Sport",Kannada
+Dr. 56,2022,6.8,Rajesh Anandaleela,"Praveen Reddy,Ramesh Bhat",2500,62051.5,"Hari Hara Pictures, Sri Lakshmi Jyothi Creations",105,"Mystery, Sci-Fi, Thriller",Kannada
+Vadakkan,2025,9.1,Sajeed A,"Greeshma Alex,Garggi Ananthan,Kishore Kumar G.",2500,1691980.0,Offbeet Studios,112,"Fantasy, Horror, Thriller",Kannada
+Murphy,2024,7.1,B.S.P. Varma,"Prabhu Mundkur,Roshini Prakash,Ila Veermalla",2400,1501016.5,"Varnasindhu Studios, Somanna Talkies",136,Romance,Kannada
+Mufti,2017,7.8,Narthan,Sadhu Kokila,2400,2155981.5,Jayanna Combines,152,"Action, Drama, Thriller",Kannada
+Aarata,2024,5.3,Pushparaj Rai Malarabeedu,"Deeksha Bhagyaraj,Sandeep Bhaktha,Shashi Gujaran",2400,50013.0,PNR Productions,122,Drama,Kannada
+Dollu,2022,7.2,Sagar Puranik,"Dr. Prabhudeva D.s, Gangadhar, Gowtham",2300,50013.0,Wadeeyar Movies,106,Drama,Kannada
+KTM,2024,6.7,Aruna,"Sanjana Doss,Kaajal Kunder,Dheekshith Shetty",2200,50013.0,Mahasimha Movies,149,Drama,Kannada
+Kendasampige,2015,8.3,Suri,"Vikky Varun,Manvita Kamath,Rajesh Nataranga",2200,481860.0,Parimala Film Factory,99,"Romance, Thriller",Kannada
+The Villain,2018,4.9,Prem,Amy Jackson,2100,194871.5,Tanvi Shanvi Films,176,"Action, Thriller",Kannada
+Pratyartha,2025,8.9,Arjun M Kamath,"Ramnath Shanbhag,Ramesh Bhat",2100,481860.0,"Sandalwood films, Vishista films",139,"Comedy, Romance, Thriller",Kannada
+Interval,2025,7.4,Bharatvarsh,"Sahana Aaradhya,Prajwal Kumar Gowda,Shashi Raj",2100,126875.5,Bharatvarsh Pictures,142,Comedy,Kannada
+Shivaji Surathkal,2020,7.1,Akash Srivatsa,"Ramesh Aravind,Radhika Narayan,Aarohi Narayan",2000,1061366.5,Anjanadri Cine Creations,124,"Drama, Mystery, Thriller",Kannada
+Yajamana,2019,6.1,V. HarikrishnaPonkumaran,"Darshan Thoogudeep,Rashmika Mandanna",2000,31183.0,Media House Studio,164,Action,Kannada
+Tagaru,2018,7.9,SuriAbhi,Manvita Kamath,2000,481860.0,Venus Entertainers,129,"Action, Crime",Kannada
+Jackie,2010,7.5,Suri,"Puneeth Rajkumar,Bhavana,Rangayana Raghu",2000,1648155.0,Unknown,126,"Action, Comedy",Kannada
+Jai Bhajarangi,2021,6.5,Harsha,"Shivarajkumar,Bhavana,Shruti",2000,6021.0,Jayanna Combines,156,"Action, Fantasy",Kannada
+Hostel Hudugaru Bekagiddare,2023,7.2,Nithin Krishnamurthy,"Manjunath,Prajwal BP,Aniruddha",1900,2121.0,"Gulmohur Films, Annapurna Studios, Chai Bisket",144,Comedy,Kannada
+Kurukshetra,2019,6.2,Naganna,"Darshan Thoogudeep,Arjun Sarja",1900,7320.0,"KCN Movies, Rockline Productions, Vrushabhadri Productions",185,"War, History",Kannada
+Kotigobba 2,2016,6.6,K.S. Ravikumar,"Nithya Menen,Prakash Raj",1800,2155981.5,"Ram Babu Productions, Duhara Movies",162,"Action, Drama, Thriller",Kannada
+Birbal Trilogy: Case 1 - Finding Vajramuni,2019,7.7,M.G. Srinivas,"M.G. Srinivas,Rukmini Vasanth,Sujay Shastry",1800,185586.0,Crystal Paark Cinemas,163,"Crime, Thriller",Kannada
+Naalkane Aayama,2024,5.4,Gowtham R,"Gowtham Ghatke,Rachana Inder, Vanshika Anjani Kashyapa",1700,1021.0,Inchara Creations,108,Horror,Kannada
+Badava Rascal,2021,7.3,Guru Shankar,Rangayana Raghu,1800,1648155.0,Daali Pictures,133,"Action, Comedy",Kannada
+Veda,2022,6.7,Harsha,Kuri Prathap,1700,595200.0,"Geetha Pictures, Zee Studios",156,"Action, Drama",Kannada
+Old Monk,2022,6.6,M.G. Srinivas,"M.G. Srinivas,Aditi Prabhudeva,Aruna Balraj",1700,149229.0,S Originals,129,"Comedy, Romance",Kannada
+Chase in the Dark,2022,7.8,Vilok Shetty,"Radhika Narayan,Avinash Narsimharaju,Sheetal Shetty",1700,426782.0,Simplyfun Media Networks,143,"Crime, Mystery, Thriller",Kannada
+Ondu Motteya Kathe,2017,7.9,Raj B. Shetty,"Prakash Thuminad,Usha Bhandary",1700,176169.0,"Mango Pickle Entertainment, Pawan Kumar Studios",124,"Comedy, Drama",Kannada
+Lanke,2021,4.1,M.D. Ram Prasad,"Gayatri Jayaraman,Sharath Lohitashwa,Ester Noronha",1600,50013.0,Unknown,132,Drama,Kannada
+Katheyondu Shuruvagide,2018,7.1,Senna Hegde,"Pooja Devariya,Ashwin Rao Pallaki",1600,5750.0,"Paramvah Studios, Pushkar Films",133,"Comedy, Romance",Kannada
+Gaalipata 2,2022,6.0,Yograj Bhat,Pawan Kumar,1600,11602.0,"MD Media, Yograj Cinemas",151,"Comedy, Romance",Kannada
+Jersey Number 10,2023,7.0,Adyah ThimmaiahDinesh Mahadev,"Thriller Manju,Adyah Thimmaiah",1600,204669.0,Adyah Koteshwara Films,142,"Drama, Sport",Kannada
+Gultoo,2018,7.8,Janardhan Chikkanna,"Naveen Shankar,Sonu Gowda",1600,131028.0,Vivid Films,128,"Crime, Drama",Kannada
+Mr. Rani,2025,8.3,Madhu Chandra,"Madhu Chandra,Lakshmi Karanth,Parvati Nair",1600,176169.0,Excel Orbit Creations,128,"Comedy, Drama",Kannada
+Wedding Gift,2022,8.6,Vikram Prabhu,"Sonu Gowda,Achyuth Kumar,Pavitra Lokesh",1500,366674.0,Vikram Prabhu Films,139,"Drama, Thriller",Kannada
+Natasaarvabhowma,2019,6.5,Pawan Wadeyar,"Puneeth Rajkumar,Saroja Devi,Anupama Parameswaran",1500,11063.0,"Rockline Entertainment, Goldmines Telefilms",157,Action,Kannada
+Blink,2024,7.0,Bengaluru Srinidhi,"Dheekshith Shetty,Mandara Battalahalli",1500,11240.0,Janani Pictures,136,"Sci-Fi, Thriller",Kannada
+Raktaksha,2024,8.1,"Vasudeva SN,S.N. Vasudeva","Rohit,Rachana Dashrath,Archana Kottige",1400,481860.0,"Sai Productions, Sai Production",118,"Action, Crime, Mystery",Kannada
+Laughing Buddha,2024,7.0,Bharath Raj,"Balakrishna Aadoor,Teju Belawadi,Pushparaj Bollar",1300,126875.5,Rishab Shetty Films,133,Comedy,Kannada
+Shakhahaari,2024,7.5,Sandeep Sunkad,"Gopalkrishna Deshpande,Cloudy Dsouza",1300,185586.0,"Keelambi Media Lab, Last Page Creations",145,"Crime, Thriller",Kannada
+Drishyam,2013,8.4,Jeethu Joseph,"Mohanlal,Meena,Asha Sharath",46000,13076265.0,"Aashirvad Cinemas, B4U Motion Pictures",160,"Drama, Mystery, Thriller",Malayalam
+Drishyam 2,2021,8.4,Jeethu Joseph,"Mohanlal,Meena,Ansiba",43000,3841.0,Aashirvad Cinemas,152,"Drama, Mystery, Thriller",Malayalam
+Minnal Murali,2021,7.8,Basil Joseph,"Tovino Thomas,Guru Somasundaram,Aju Varghese",34000,125857438.0,Weekend Blockbusters,158,"Drama, Fantasy, Sci-Fi",Malayalam
+Premam,2015,8.3,Alphonse Puthren,"Nivin Pauly,Sai Pallavi,Madonna Sebastian",26000,320366.0,Anwar Rasheed Entertainment,156,"Comedy, Drama, Romance",Malayalam
+Bangalore Days,2014,8.3,Anjali Menon,"Dulquer Salmaan,Nivin Pauly,Nazriya Nazim",24000,180217.0,"Anwar Rasheed Entertainment, Weekend Blockbusters",171,"Comedy, Drama, Romance",Malayalam
+Kumbalangi Nights,2019,8.5,Madhu C. Narayanan,"Shane Nigam,Soubin Shahir,Fahadh Faasil",20000,1312005.0,"Bhavana Studios, Fahadh Faasil and Friends, Working Class Hero",135,"Comedy, Drama, Romance",Malayalam
+Premalu,2024,7.8,Girish A.D.,"Mamitha Baiju,Shyam Mohan",20000,2342985.0,Bhavana Studios,156,"Comedy, Romance",Malayalam
+Jana Gana Mana,2022,8.3,Dijo Jose Antony,"Prithviraj Sukumaran,Suraj Venjaramoodu,Mamta Mohandas",19000,3135150.0,"Magic Frames, Prithviraj Productions",162,"Drama, Thriller",Malayalam
+Hridayam,2022,8.1,Vineeth Sreenivasan,"Pranav Mohanlal,Kalyani Priyadarshan,Darshana Rajendran",18000,1740483.0,"Merryland Cinemas, Big Bang Entertainments",172,"Drama, Musical, Romance",Malayalam
+Ustad Hotel,2012,8.2,Anwar Rasheed,Dulquer Salmaan,18000,2178.0,Magic Frames,151,"Comedy, Drama",Malayalam
+#Home,2021,8.8,Rojin Thomas,"Sreenath Bhasi,Manju Pillai",17000,10950395.0,Friday Film House,158,"Drama, Family",Malayalam
+Kurup,2021,7.0,Srinath Rajendran,"Dulquer Salmaan,Indrajith Sukumaran,Sobhita Dhulipala",16000,2438108.0,"M Star Satellite Communications, Wayfarer Films",140,"Crime, Drama, Thriller",Malayalam
+Malik,2021,8.0,Mahesh Narayanan,"Fahadh Faasil,Nimisha Sajayan,Vinay Forrt",15000,987421.0,Anto Joseph Film Company,162,"Crime, Drama, Thriller",Malayalam
+Lucifer,2019,7.5,Prithviraj Sukumaran,"Vivek Oberoi,Manju Warrier",14000,3964900.0,Aashirvad Cinemas,175,"Crime, Drama, Thriller",Malayalam
+The Teacher,2022,6.3,Vivek,"Amala Paul,Hakkim Shah,Chemban Vinod Jose",14000,1269.0,"FILLSCRNNutmeg Productions, VTV Films",121,"Drama, Thriller",Malayalam
+2018,2023,8.3,Jude Anthany Joseph,"Tovino Thomas,Kunchacko Boban,Asif Ali",14000,4567946.0,"Anto Joseph Film Company, Kavya Film Company, P.K. Prime Production",150,"Action, Drama, Thriller",Malayalam
+Bramayugam,2024,7.8,Rahul Sadasivan,"Arjun Ashokan,Sidharth Bharathan",14000,1384427.0,"Night Shift Studios, Y Not Studios",139,"Drama, Horror, Thriller",Malayalam
+Charlie,2015,8.1,Martin Prakkat,"Dulquer Salmaan,Parvathy Thiruvothu,Aparna Gopinath",14000,46083.0,Finding Cinema,130,"Drama, Romance, Thriller",Malayalam
+Bheeshma Parvam,2022,7.6,Amal Neerad,"Soubin Shahir,Sreenath Bhasi",14000,5845408.0,"Amal Neerad Productions, Digibricks Entertainment",144,"Crime, Drama, Thriller",Malayalam
+Manichitrathazhu,1993,8.7,Fazil,Suresh Gopi,13000,82307.0,Swargachitra,169,"Horror, Mystery, Thriller",Malayalam
+Joji,2021,7.8,Dileesh Pothan,"Basil Joseph,Fahadh Faasil,Dileesh Pothan",12000,131028.0,"Bhavana Studios, Fahadh Faasil and Friends, Working Class Hero",113,"Crime, Drama",Malayalam
+Ayyappanum Koshiyum,2020,8.0,Sachy,"Biju Menon,Prithviraj Sukumaran",12000,5088713.0,Gold Coin Motion Pictures,177,"Action, Drama, Thriller",Malayalam
+Maheshinte Prathikaram,2016,8.3,Dileesh Pothan,"Fahadh Faasil,Aparna Balamurali,Soubin Shahir",11000,22361.0,OPM Dream Mill Cinemas,120,"Comedy, Drama",Malayalam
+The Great Indian Kitchen,2021,8.1,Jeo Baby,"Nimisha Sajayan,Suraj Venjaramoodu",11000,1302293.0,"Cinema Cooks, Mankind Cinemas, Symmetry Cinemas",100,"Comedy, Drama, Family",Malayalam
+Anweshippin Kandethum,2024,7.4,Darwin Kuriakose,"Tovino Thomas,Vineeth Thattil David,Rahul Rajagopal",10000,4459155.0,"Theatre of Dreams, Yoodlee Films",142,"Drama, Mystery, Thriller",Malayalam
+Anukoni Athidhi,2019,6.7,Vivek,"Fahadh Faasil,Sai Pallavi,Atul Kulkarni",10000,481860.0,"Century Investments, New Smile Entertainment",136,"Mystery, Romance, Thriller",Malayalam
+Kannur Squad,2023,7.6,Roby Varghese Raj,Kishore Kumar,10000,1981526.0,Mammootty Kampany,161,"Crime, Drama, Thriller",Malayalam
+Anjaam Pathiraa,2020,7.9,Midhun Manuel Thomas,"Kunchacko Boban,Jinu Joseph,Unnimaya Prasad",10000,1106211.0,"Ashiq Usman Productions, Manual Movie Makers",144,"Crime, Mystery, Thriller",Malayalam
+Aaraattu,2022,3.7,B. Unnikrishnan,Nedumudi Venu,10000,1648155.0,"Hippo Prime Motion Pictures, MPM Group, RD Illuminations",167,"Action, Comedy",Malayalam
+Nayattu,2021,8.0,Martin Prakkat,"Kunchacko Boban,Joju George,Nimisha Sajayan",9600,185586.0,"Gold Coin Motion Pictures, Martin Prakkat Films",124,"Crime, Thriller",Malayalam
+Marakkar: Lion of the Arabian Sea,2021,5.8,Priyadarshan,"Arjun Sarja,Suniel Shetty",9500,1775360.0,"Aashirvad Cinemas, Moonshot Entertainments, Confident Group",181,"Drama, History, War",Malayalam
+Jallikattu,2019,7.3,Lijo Jose Pellissery,"Antony Varghese,Chemban Vinod Jose,Sabumon Abdusamad",9300,248800.0,"Chembosky Motion Pictures, Kasargod Aadmi Pictures, Lijo Jose Pellissery Movie House",95,"Crime, Drama, Thriller",Malayalam
+Trance,2020,7.3,Anwar Rasheed,"Fahadh Faasil,Joju George,Gautham Vasudev Menon",9300,490855.0,Anwar Rasheed Entertainment,170,"Drama, Thriller",Malayalam
+Romancham,2023,7.5,Jithu Madhavan,"Soubin Shahir,Arjun Ashokan,Chemban Vinod Jose",9100,1544653.0,"Guppy Cinemas, Johnpaul George Productions",130,"Comedy, Horror",Malayalam
+Neru,2023,7.5,Jeethu Joseph,Santhi Mayadevi,8900,2093761.0,Aashirvad Cinemas,150,"Drama, Thriller",Malayalam
+Pulimurugan,2016,6.6,Vysakh,"Jagapathi Babu,Kamalinee Mukherjee",8900,136052.0,Mulakuppadam Films,161,Action,Malayalam
+King of Kotha,2023,6.1,Abhilash Joshiy,"Dulquer Salmaan,Soubin Shahir,Aishwarya Lekshmi",8800,844233.0,"Wayfarer Films, Zee Studios",174,"Crime, Drama, Thriller",Malayalam
+A.R.M,2024,7.1,Jithin Lal,"Basil Joseph,Tovino Thomas",8700,1950747.0,"Magic Frames, UGM Entertainment",150,"Comedy, Drama, Fantasy",Malayalam
+Thondi Muthalum Driksakshiyum,2017,8.0,Dileesh Pothan,"Fahadh Faasil,Suraj Venjaramoodu,Nimisha Sajayan",8600,803887.0,Urvasi Theaters,135,"Crime, Drama, Thriller",Malayalam
+Mumbai Police,2013,7.9,Rosshan Andrrews,Prithviraj Sukumaran,8300,426782.0,Nisad Haneefa Productions,145,"Crime, Mystery, Thriller",Malayalam
+The Priest,2021,6.0,Jofin T. Chacko,"Nikhila Vimal,Manju Warrier",8200,110855.0,"Anto Joseph Film Company, RD Illuminations",140,"Horror, Mystery, Thriller",Malayalam
+The Great Father,2017,6.8,Haneef Adeni,"Mammootty,Arya,Sneha",8100,1061366.5,August Cinema,151,"Drama, Mystery, Thriller",Malayalam
+Take Off,2017,8.1,Mahesh Narayanan,"Parvathy Thiruvothu,Fahadh Faasil,Kunchacko Boban",7700,884267.0,"Anto Joseph Film Company, Rajesh Pillai Films",139,"Action, Drama, Thriller",Malayalam
+Spadikam,1995,8.6,Bhadran,"Mohanlal,Thilakan,Urvashi",7400,62313.0,Shogun Films,150,"Action, Drama",Malayalam
+Bro Daddy,2022,7.0,Prithviraj Sukumaran,"Prithviraj Sukumaran,Lalu Alex",7300,320366.0,Aashirvad Cinemas,159,"Comedy, Drama, Romance",Malayalam
+Android Kunjappan Version 5.25,2019,8.0,Ratheesh Balakrishnan Poduval,"Soubin Shahir,Suraj Venjaramoodu,Kendy Zirdo",7300,10230.0,Moonshot Entertainments,140,"Comedy, Drama, Sci-Fi",Malayalam
+Pani,2024,6.9,Joju George,"Joju George,Sagar Surya",3100,913622.0,"ADS Studios, Appu Pathu Pappu Production House, Gokulam Movies",143,"Gangster, Action, Crime",Malayalam
+Rorschach,2022,6.9,Nissam Basheer,Grace Antony,7100,2145878.0,"Mammootty Kampany, Wayfarer Films",150,"Action, Mystery, Thriller",Malayalam
+Bougainvillea,2024,6.4,Amal Neerad,"Kunchacko Boban,Fahadh Faasil",3200,1206986.0,"Amal Neerad Productions, Udaya Pictures",138,"Crime, Mystery, Thriller",Malayalam
+Mukundan Unni Associates,2022,7.9,Abhinav Sunder Nayak,"Vineeth Sreenivasan,Suraj Venjaramoodu,Aarsha Chandini Baiju",6700,44990.0,"Joy Movie Productions, Little Big Films",128,"Comedy, Crime, Drama",Malayalam
+Qalb,2024,6.5,Sajid Yahiya,"Ranjith Sajeev,Neha Nazneen",2300,1164.0,"Fragrant Nature, Friday Film House",147,"Feel-Good Romance, Drama, Romance",Malayalam
+Brahmastra Part One: Shiva,2022,5.6,Ayan Mukerji,"Amithabh Bachchan,Ranbir Kapoor,Alia Bhatt",114000,50164785.0,"Dharma Productions, Double Negative (DNEG)Prime Focus Studios",167,"Action, Adventure, Fantasy",Hindi
+Hera Pheri,2000,8.2,Priyadarshan,"Akshay Kumar,Suniel Shetty,Paresh Rawal",76000,583638.0,A.G. Films,156,"Comedy, Crime, Drama",Hindi
+OMG: Oh My God!,2012,8.1,Umesh Shukla,"Paresh Rawal,Akshay Kumar,Mithun Chakraborty",68000,12140087.0,"Grazing Goat Pictures, Playtime Creations, Spice Studios",125,"Comedy, Drama, Fantasy",Hindi
+Kahaani,2012,8.1,Sujoy Ghosh,"Vidya Balan,Parambrata Chattopadhyay,Indraneil Sengupta",68000,459234.0,"Boundscript, Pen Movies, Viacom18 Motion Pictures",122,"Mystery, Thriller",Hindi
+Chennai Express,2013,6.2,Rohit Shetty,"Deepika Padukone,Shah Rukh Khan",67000,10234653.0,"Red Chillies Entertainment, Redchillies.VFXUTV Motion Pictures",141,"Action, Comedy, Romance",Hindi
+Karthikeya 2,2022,7.9,Chandoo Mondeti,"Nikhil Siddharth,Anupama Parameswaran,Srinivasa Reddy",65000,2440029.0,"Abhishek Agarwal Arts, People Media Factory",150,"Fantasy, Mystery, Thriller",Telugu
+CU Soon,2020,7.6,Mahesh Narayanan,"Fahadh Faasil,Roshan Mathew,Darshana Rajendran",7000,1061366.5,Fahadh Faasil and Friends,98,"Drama, Mystery, Thriller",Malayalam
+Angamaly Diaries,2017,7.9,Lijo Jose Pellissery,"Antony Varghese,Anna Rajan,Binny Rinky Benjamin",6900,661915.0,Friday Film House,132,"Action, Comedy, Thriller",Malayalam
+Joseph,2018,8.0,M. Padmakumar,"Joju George,Athmeeya Rajan,Dileesh Pothan",6900,1061366.5,"Appu Pathu Pappu Production House, Dream Shots Cinema",138,"Drama, Mystery, Thriller",Malayalam
+Devasuram,1993,8.7,I.V. Sasi,"Mohanlal,Napolean,Revathi",6800,2397623.0,Anugraha Arts,157,"Action, Crime, Drama",Malayalam
+Kuruthi,2021,7.5,Manu Warrier,"Prithviraj Sukumaran,Roshan Mathew",6700,100199.5,Prithviraj Productions,122,Thriller,Malayalam
+Sunny,2021,6.6,Ranjith Sankar,"Shritha Sivadas,Innocent Vareed Thekkethala",6400,366674.0,Dreams N Beyond Production,93,"Drama, Thriller",Malayalam
+Salute,2022,7.0,Rosshan Andrrews,"Dulquer Salmaan,Diana Penty",6300,1061366.5,Wayfarer Films,145,"Drama, Mystery, Thriller",Malayalam
+Ennu Ninte Moideen,2015,8.0,R.S. Vimal,"Prithviraj Sukumaran,Parvathy Thiruvothu",6100,481860.0,Newton Movies,166,"Biography, Drama, Romance",Malayalam
+Malikappuram,2022,7.4,Vishnu Sasi Shankar,"Unni Mukundan,Saiju Kurup,Deva Nandha",6000,767076.0,"Ann Mega Media Release, Kavya Film Company",121,"Action, Adventure, Drama",Malayalam
+Jaya Jaya Jaya Jaya Hei,2022,7.7,Vipin Das,"Darshana Rajendran,Basil Joseph,Aju Varghese",6000,1302293.0,"Cheers Entertainments, Sooper Dooper Films",145,"Comedy, Drama, Family",Malayalam
+RDX: Robert Dony Xavier,2023,7.0,Nahas Hidhayath,"Antony Varghese,Shane Nigam,Neeraj Madhav",5900,1718847.0,Weekend Blockbusters,151,"Kung Fu, Action, Adventure",Malayalam
+Abrahaminte Santhathikal,2018,6.7,Shaji Padoor,Renji Panicker,5800,2735.0,Goodwill Entertainments,131,"Action, Crime, Thriller",Malayalam
+Head Bush,2022,6.0,ShoonyaAbhishek Basanth,Payal Rajput,1300,370556.0,"Daali Pictures, Somanna Talkies",138,"Action, Biography, Crime",Kannada
+Thugs of Ramaghada,2023,7.8,Karthik Maralabhavi,"Chandan Raj,Ashwin Hassan",1300,131028.0,Unknown,118,"Crime, Drama",Kannada
+Mounam,2020,2.3,Raj Pandith,"Aviansh,Kempegowda,Mayuri Kyatari",1300,481860.0,Niharika Movies,142,Family,Kannada
+Bhairathi Ranagal,2024,6.9,Narthan,"Rukmini Vasanth,Rahul Bose",1300,15665.0,"Geetha Pictures, KVN Productions",150,Drama,Kannada
+Chow Chow Bath,2024,7.1,Kenja Chethan Kumar,"Aruna Balraj,Geetha Bangera,Sushmitha Bhat",1200,149229.0,Horizon Movies,110,"Comedy, Romance",Kannada
+Purushothamana Prasanga,2024,6.3,Devadas KapikadArjun Kapikad,Unknown,1200,481860.0,Rashtrakuta pictures,133,Unknown,Kannada
+Anbe Sivam,2003,8.6,Sundar C.,"Kamal Haasan,Kiran Rathod",27000,2452343.0,Lakshmi Movie Makers,160,"Adventure, Comedy, Drama",Tamil
+Theeran Adhigaaram Ondru,2017,8.2,H. Vinoth,"Rakul Preet Singh,Abhimanyu Singh",18000,238484.0,Dream Warrior Pictures,157,"Action, Crime, Thriller",Tamil
+Dhuruvangal Pathinaaru,2016,8.2,Karthick Naren,Prakash Raghavan,18000,1061366.5,Knight Nostalgia Filmotainment,105,"Drama, Mystery, Thriller",Tamil
+Nanban,2012,7.8,S. Shankar,Joseph Vijay,18000,15007076.0,Gemini Film Circuit,188,"Comedy, Drama",Tamil
+Peranbu,2018,8.7,Ram,"Mammootty,Sadhana",17000,3417.0,Shree Raajalakshmi Films,147,"Drama, Family",Tamil
+Velayudham,2011,6.1,Mohan Raja,"Joseph Vijay,Genelia Deshmukh,Hansika Motwani",13000,107843.0,Aascar Film P.,160,"Action, Superhero",Tamil
+Bairavaa,2017,5.8,Bharathan,"Joseph Vijay,Keerthy Suresh,Jagapathi Babu",12000,429872.0,Vijaya Productions Pvt. Ltd.Goldmines Telefilms,169,Action,Tamil
+Soodhu Kavvum,2013,8.3,Nalan Kumarasamy,"Vijay Sethupathi,Sanchita Shetty,Radha Ravi",12000,11864915.0,"Goldmines Telefilms, Thirukumaran Entertainment",135,"Comedy, Crime, Thriller",Tamil
+Baasha,1995,8.3,Suresh Krishna,"Rajinikanth,Nagma,Raghuvaran",12000,2397623.0,Sathya Movies,145,"Action, Crime, Drama",Tamil
+Billa 2,2012,6.1,Chakri Toleti,"Ajith Kumar,Parvathy Omanakuttan,Bruna Abdullah",12000,1155290.0,"IN Entertainment, Industria, TN Entertainment",129,"Action, Crime, Thriller",Tamil
+Viswasam,2019,6.5,Siva,"Ajith Kumar,Jagapathi Babu",11000,918734.0,"Sathya Jyothi Films, Goldmines Telefilms",153,"Action, Drama",Tamil
+Annaatthe,2021,4.0,Siva,"Aditya Nath Uppal,Keerthy Suresh",11000,230333.0,"Sun Pictures, Sun Pictures",163,"Action, Comedy, Drama",Tamil
+Kaala,2018,6.5,Pa. Ranjith,Nana Patekar,11000,1509872.0,Wunderbar Films,162,"Action, Crime, Drama",Tamil
+Yennai Arindhaal,2015,7.3,Gautham Vasudev Menon,"Ajith Kumar,Arun Vijay,Trisha Krishnan",11000,841040.0,Sri Sathya Sai Movies,168,"Crime, Drama, Thriller",Tamil
+Puli,2015,4.3,Chimbudeven,Joseph Vijay,11000,1387272.0,SKT Studios,155,"Action, Adventure, Fantasy",Tamil
+Agent,2023,3.6,Surender Reddy,"Akhil Akkineni,Sakshi Vaidya",2000,45291.0,"AK Entertainments, Surrender 2 Cinema",156,"Action, Mystery, Thriller",Telugu
+Drinker Sai,2024,8.9,Kiran Tirumalasetti,"Badram,Ritu Chowdary,Mahesh Dharma",2100,50013.0,"Everest Cinemass, Smart Screens Entertainments",148,Drama,Telugu
+Bheemla Nayak,2022,6.3,Saagar K Chandra,"Pawan Kalyan,Rana Daggubati,Nithya Menen",10000,15243922.0,Sithara Entertainments,130,"Action, Drama, Thriller",Telugu
+Jathi Ratnalu,2021,7.4,Anudeep K.V.,"Naveen Polishetty,Rahul Ramakrishna,Priyadarshi Pulikonda",8500,731273.0,Swapna Cinema,145,Comedy,Telugu
+Vinaya Vidheya Rama,2019,3.3,Boyapati Srinu,"Ram Charan,Vivek Oberoi,Kiara Advani",4400,42832.0,DVV Entertainment,146,"Action, Drama",Telugu
+Dhruva,2016,7.7,Surender Reddy,"Ram Charan,Arvind Swamy,Rakul Preet Singh",8400,987421.0,"Geetha Arts, MG Movies Productions",165,"Crime, Drama, Thriller",Telugu
+Dasara,2023,6.6,Srikanth Odela,"Keerthy Suresh,Shine Tom Chacko",11000,269146.0,Sri Lakshmi Venkateshwara Cinemas,156,"Action, Adventure, Drama",Telugu
+Swag,2024,7.5,Hasith Goli,"Meera Jasmine,Ritu Varma",3000,47283.0,People Media Factory,150,"Comedy, Drama",Telugu
+Srimanthudu,2015,7.5,Koratala Siva,"Mahesh Babu,Shruti Haasan,Jagapathi Babu",14000,14240289.0,"G. Mahesh Babu Entertainment, Mythri Movie Makers, ZEE Entertainment Enterprises",158,"Action, Drama",Telugu
+Uppena,2021,6.5,Buchi Babu Sana,"Panja Vaisshnav Tej,Krithi Shetty,Vijay Sethupathi",4500,5794.0,"Mythri Movie Makers, Sukumar Writings, Goldmines Telefilms",147,"Drama, Romance",Telugu
+Bubblegum,2023,6.2,Ravikanth Perepu,"Roshan Kanakala,Manasa Chowdary,Harsha Chemudu",2400,596.0,"Maheshwari Movies, People Media Factory",146,"Action, Drama, Romance",Telugu
+Brahma Anandam,2025,8.1,RVS Nikhil,"Dayanand Reddy,Raghu Babu",1200,50013.0,Swadharm Entertainment,140,Drama,Telugu
+Kushi,2023,5.4,Shiva Nirvana,"Samantha Ruth Prabhu,Vijay Deverakonda,Murli Sharma",8500,202352.0,Mythri Movie Makers,163,"Comedy, Drama, Romance",Telugu
+Maestro,2021,6.7,Merlapaka Gandhi,"Tamannaah Bhatia,Nabha Natesh",1600,481860.0,Sreshth Movies,135,"Music, Mystery, Thriller",Telugu
+Sarkaru Vaari Paata,2022,5.6,Parasuram,"Mahesh Babu,Keerthy Suresh",11000,14199018.0,"14 Reels Plus, G. Mahesh Babu Entertainment, Mythri Movie Makers",162,"Action, Drama",Telugu
+Razakar: The Silent Genocide of Hyderabad,2024,7.4,Yaata Satyanarayana,"Raj Arjun,Bobby Simha,Anasuya Bharadwaj",5300,349271.0,"Altair Media, Samarveer Creations",166,"Action, Drama, History",Telugu
+Srikakulam Sherlockholmes,2024,8.0,Writer Moahan,"Bhadram,Muralidhar Goud,Siya Gowtam",2300,126875.5,Sri Ganapathi Cinemas,125,Comedy,Telugu
+Doctor,2021,7.4,Nelson Dilipkumar,"Vinay Rai,Priyanka Arulmohan",20000,583638.0,"KJR Studios, Sivakarthikeyan Productions, Goldmines Telefilms",148,"Comedy, Crime, Drama",Telugu
+S/O Satyamurthy,2015,7.1,Trivikram Srinivas,"Allu Arjun,Samantha Ruth Prabhu",7300,595200.0,Haarika & Hassine Creations,162,"Action, Drama",Telugu
+Agent Sai Srinivasa Athreya,2019,8.3,Swaroop Rsj,"Naveen Polishetty,Shruti Sharma,Krishneswara Rao",18000,4454.0,"Goldmines Telefilms, Swadharm Entertainment",148,"Crime, Mystery, Thriller",Telugu
+Dhamaka,2022,6.2,Trinadha Rao Nakkina,Ravi Teja,5500,89339.0,"People Media Factory, Abhishek Agarwal Arts, B4U Motion Pictures",144,"Action, Comedy, Thriller",Telugu
+Yamadonga,2007,7.2,S.S. Rajamouli,"Rama Rao Jr,Mohan Babu",4900,481860.0,Viswamitra Creations,185,"Action, Comedy, Fantasy",Telugu
+Ala Ninnu Cheri,2023,6.5,Maresh Shivan,"Dinesh Tej,Hebah Patel,Payal Radhakrishna",3600,481860.0,"Viision Movie Makers, Vision Movie Makers",158,"Action, Romance",Telugu
+Shyam Singha Roy,2021,7.6,Rahul Sankrityan,"Sai Pallavi,Krithi Shetty",16000,142362.0,"Niharika Entertainment, B4U Motion Pictures, MG Movies Productions",155,"Period Drama, Drama, Romance",Telugu
+Mukhachitram,2022,6.4,Gangadhar,"Vikas Vasistha,Priya Vadlamani,Ayesha Khan",2900,481860.0,Pocket Money Pictures,126,"Romance, Thriller",Telugu
+Virupaksha,2023,7.2,Karthik Varma Dandu,"Sai Dharam Tej,Samyuktha Menon",6800,88527.0,"Sri Venkateswara Cine Chitra, Sukumar Writings",145,"Horror, Mystery, Thriller",Telugu
+Rakshasudu,2019,7.9,Ramesh Varma,"Sai Srinivas Bellamkonda,Anupama Parameswaran",1800,4602.0,A Studios,122,"Action, Crime, Thriller",Telugu
+Cheddy Gang Tamasha,2023,7.5,Venkat Kalyan,"Kranthi Kiran,Venkat Kalyan,Laxman Meesala",2800,44478.0,"Abuja Entertainment, Sri Leela Entertainements",160,"Action, Comedy, Crime",Telugu
+1: Nenokkadine,2014,7.9,Sukumar,"Mahesh Babu,Kriti Sanon",47000,194871.5,"14 Reels Entertainment, Eros Worldwide, Hobo Pictures",170,"Action, Thriller",Telugu
+Varudu Kaavalenu,2021,6.4,Lakshmi Sowjanya,"Mahesh Achanta,Vaishnavi Chaitanya",1400,22041.0,Sithara Entertainments,135,Romance,Telugu
+Nuvvostanante Nenoddantana,2005,7.8,Prabhu Deva,Trisha Krishnan,4100,1501016.5,Sumanth Art Productions,165,Romance,Telugu
+Ninnu Kori,2017,7.5,Shiva Nirvana,Nivetha Thomas,4200,149229.0,"DVV Entertainment, Kona Film Corporation",137,"Comedy, Romance",Telugu
+Awe!,2018,7.6,Prasanth Varma,"Kajal Aggarwal,Nithya Menen,Srinivas Avasarala",6200,47386.0,Wall Poster Cinema,150,"Mystery, Sci-Fi, Thriller",Telugu
+Mr. Bachchan,2024,3.6,Harish Shankar,"Ravi Teja,Jagapathi Babu,Sidhu Jonnalagadda",5300,30098.0,"People Media Factory, T Series",150,"Drama, Romance, Thriller",Telugu
+Ashoka Vanamlo Arjuna Kalyanam,2022,7.4,Vidyasagar Chinta,"Vishwak Sen,Rukshar Dhillon,Ritika Nayak",1900,4725.0,"Dream Farmers, SVCC Digital, Sri Venkateswara Cine Chitra",149,"Drama, Romance",Telugu
+Waltair Veerayya,2023,6.2,Bobby Kolli,"Ravi Teja,Shruti Haasan",8000,838855.0,Mythri Movie Makers,155,"Action, Drama",Telugu
+Goutham Nanda,2017,6.4,Sampath Nandi,"Hansika Motwani,Catherine Tresa",1100,39711.0,"Sri Balaji Cine Media, ZEE Entertainment Enterprises",155,"Action, Drama",Telugu
+Dhakshina,2024,5.4,Tulasi Ram Osho,"Rishav Basu,Magna Choudhary,Dhansika",5200,131028.0,Cult Concepts,107,"Crime, Drama",Telugu
+Ravanasura,2023,5.7,Sudheer Varma,Ravi Teja,2600,57338.0,"Abhishek Nama Pictures, MSK Films, RT Teamworks",141,"Crime, Drama, Thriller",Telugu
+Macherla Niyojakavargam,2022,4.5,S.R. Shekhar,"Krithi Shetty,Catherine Tresa",1500,1264167.0,Sreshth Movies,159,"Action, Comedy, Drama",Telugu
+Bimbisara,2022,6.8,Mallidi Vasishta,"Nandamuri Kalyan Ram,Samyuktha Menon,Catherine Tresa",8300,2965226.0,NTR Arts,146,"Action, Drama, Fantasy",Telugu
+Pelli Choopulu,2016,8.2,Tharun Bhascker Dhaassyam,"Abhay Bethiganti,Bindu Chandramouli,Khenisha Chandran",8800,320366.0,"Dharmapath Creations, Big Ben Cinemas, Vinoothna Geetha",125,"Comedy, Drama, Romance",Telugu
+Ambajipeta Marriage Band,2024,6.6,Dushyanth Katikineni,"Gayatri Bhargavi,Jagadeesh Prathap Bandari",755,31665.0,"Dheeraj Mogilineni Entertainment, GA2 Pictures, Mahayana Motion Pictures",144,Drama,Telugu
+Bommarillu,2006,8.2,Bommarillu Baskar,"Siddharth,Genelia Deshmukh,Prakash Raj",10000,320366.0,Sri Venkateswara Creations,170,"Comedy, Drama, Romance",Telugu
+Vikramarkudu,2006,7.7,S.S. Rajamouli,"Ravi Teja,Anushka Shetty,Annie",5000,31183.0,Sri Keerthi Creations,161,Action,Telugu
+Athidhi,2007,5.5,Surender Reddy,"Mahesh Babu,Amrita Rao,Murli Sharma",2300,31183.0,"Krishna Productions, UTV Motion Pictures",172,Action,Telugu
+F2: Fun and Frustration,2019,6.1,Anil Ravipudi,"Tamannaah Bhatia,Priyadarshi Pulikonda,Venkatesh Daggubati",3400,209812.0,Sri Venkateswara Creations,148,Comedy,Telugu
+Julayi,2012,7.3,Trivikram Srinivas,"Allu Arjun,Rajendra Prasad",7000,11864915.0,"Universal Media, Haarika & Hassine Creations, Goldmines Telefilms",160,"Comedy, Crime, Thriller",Telugu
+Miss Shetty Mr Polishetty,2023,7.0,Mahesh Babu P.,"Anushka Shetty,Naveen Polishetty",4700,92925.0,UV Creations,149,"Drama, Romance, Thriller",Telugu
+Atharintiki Daaredi,2013,7.3,Trivikram Srinivas,"Pawan Kalyan,Samantha Ruth Prabhu,Pranitha Subhash",10000,1135841.5,"Reliance Entertainment, Sri Venkateswara Cine Chitra",170,"Action, Comedy, Drama",Telugu
+Nenu Local,2017,6.4,Trinadha Rao Nakkina,"Keerthy Suresh,Naveen Chandra",3200,14372.0,Sri Venkateswara Creations,138,"Action, Comedy, Romance",Telugu
+Bangarraju,2022,5.5,Kalyan Krishna,"Nagarjuna Akkineni,Ramya Krishnan,Naga Chaitanya Akkineni",2300,534735.0,"Annapurna Studios, Zee Studios",150,Drama,Telugu
+Mr. Majnu,2019,6.1,Venky Atluri,"Akhil Akkineni,Nidhhi Agerwal,Izabelle Leite",1900,2979992.0,"Goldmines Telefilms, Sri Venkateswara Cine Chitra",145,Romance,Telugu
+Harom Hara,2024,6.6,Gnanasagar Dwaraka,"Sudheer Babu Posani,Malvika Sharma",3000,2699.0,Sree Subramanyam Cinemas,154,"Action, Crime, Drama",Telugu
+Dear Comrade,2019,7.3,Bharat Kamma,"Vijay Deverakonda,Rashmika Mandanna,Raj Arjun",11000,164714.0,"Mythri Movie Makers, Big Ben Cinemas",169,"Drama, Romance, Sport",Telugu
+Ante Sundharaniki,2022,7.6,Vivek Athreya,Nazriya Nazim,9100,3097334.0,Mythri Movie Makers,173,"Comedy, Romance",Telugu
+Pindam,2023,6.7,Saikiran Reddy Daida,"Easwari Rao,Srinivas Avasarala",11000,1021.0,Kalaahi Media,158,Horror,Telugu
+Kick,2009,7.9,Surender Reddy,Ravi Teja,6300,44478.0,"RR Moviemakers, Raasra Entertainment",155,"Action, Comedy, Crime",Telugu
+U Turn,2018,6.9,Pawan Kumar,"Samantha Ruth Prabhu,Bhoomika Chawla",4500,46861.0,"Pawan Kumar Studios, Srinivasaa Silver Screen, V.Y. Combines",128,"Horror, Mystery, Thriller",Telugu
+Jaanu,2020,7.0,C. Prem Kumar,"Sai Kiran Kumar,Samantha Ruth Prabhu",1800,1221813.0,"Goldmines Telefilms, Sri Venkateswara Creations",151,"Drama, Romance",Telugu
+Karthikeya,2014,7.2,Chandoo Mondeti,"Nikhil Siddharth,Swathi Reddy,Tanikella Bharani",6700,260989.0,"Magnus Cineprime, Sucheta Dream, Works Productions",113,"Mystery, Thriller",Telugu
+Maamannan,2023,6.7,Mari Selvaraj,"Fahadh Faasil,Keerthy Suresh",6100,4463992.0,Red Giant Movies,157,"Action, Drama, Thriller",Tamil
+The Rose Villa,2021,5.3,"R.J. Hemant,Hemanth Varma","Dheekshith Shetty,Swetaa Varma,Archana Kumar",1700,142987.0,Chitra mandhir studio,75,"Horror, Thriller",Telugu
+Vidheyan,1994,8.2,Adoor Gopalakrishnan,"Mammootty,M.R. Gopakumar,Tanvi Azmi",1600,50013.0,General Pictures,112,Drama,Malayalam
+Vasantha Mullai,2023,5.6,Ramanan Purushothama,"Bobby Simha,Kashmira Pardeshi,Sarath Babu",1500,1061366.5,"Mudhra's Film Factory, SRT Entertainments",108,"Drama, Mystery, Thriller",Tamil
+Wheel Chair Romeo,2022,7.9,Nataraj .G.,"Ram Chetan,Suchendra Prasad,Rangayana Raghu",1500,320366.0,Agasthya Creation,147,"Comedy, Drama, Romance",Kannada
+Gaalipata,2008,8.3,Yograj Bhat,"Ganesh,Diganth,Rajesh Krishnan",1500,481860.0,Unknown,146,"Comedy, Musical, Romance",Kannada
+Tora Tora,2017,7.1,Harsh Gowda,"Manju Heddur,Saniha Yadav,Pooja Raju",1400,481860.0,Mayavi Productions,118,"Comedy, Family, Sci-Fi",Kannada
+Man of the Match,2022,5.9,D. Satya Prakash,"Nataraj S. Bhat,Dharmanna Kadur,Veena Sundar",1400,176169.0,PRK Productions,115,"Comedy, Drama",Kannada
+Sri Bharatha Baahubali,2020,4.0,Manju Mandavya,"Achyuth Kumar,Manju Mandavya",1300,126875.5,Aishvarya Film Productions,164,Comedy,Kannada
+Family Drama,2024,5.9,Akarsh,"Aashith,Abhay,Abhishek V",1200,481860.0,DMK Entertainment,150,Unknown,Kannada
+Thirgusomeese,2021,7.0,Krishna Vijay,"Rajesekhar Aningi,Benarjee,Naveen Neni",1200,31183.0,Sri Srinivas Movies,103,Action,Kannada
+Anamadheya Ashok Kumar,2025,7.5,Sagar Kumar,Kishore Kumar,1200,481860.0,SKN Films,104,Unknown,Kannada
+Trikona,2022,6.4,Chandrakantha,"Suresh Heblikar,Achyuth Kumar",1200,260989.0,Police Praki Production,125,"Mystery, Thriller",Kannada
+Dharani Mandala Madhyadolage,2022,6.4,Shridhar Shikaripura,"Naveen Shankar,Aishani Shetty,Yash Shetty",1200,50013.0,Unknown,149,Drama,Kannada
+Vishnu Priya,2025,6.9,V.K. Prakash,"Achyuth Kumar,Shreyas Manju,Suchendra Prasad",1100,616333.0,K Manju Cinemaas,131,"Drama, Romance",Kannada
+Namasthe Ghost,2023,6.5,Bharath Nanda,"Chethan Nanjegowda,Shivakumar Aradhya,Shivamogga Harish",1100,1021.0,Chirayu Creative Cinemas,127,Horror,Kannada
+Pizza 3: The Mummy,2023,4.8,Mohan Govind,"Kavitha Bharathi,Raveena Daha,Ashwin Kakumanu",1100,1444020.0,Thirukumaran Entertainment,123,"Drama, Horror, Thriller",Tamil
+Click,2024,8.5,Shashikumar Mandya,"Silli Lalli Anand,Sanju Basayya,Pavan Basrur",1100,176169.0,Sharanya Films,110,"Comedy, Drama",Kannada
+Choo Mantar,2025,7.9,Navaneeth,"Rajani Bharadwaj,Kiran Chandrashekar",1100,1021.0,Tarun Studios,142,Horror,Kannada
+Chef Chidambara,2024,5.5,M Anand Raj,"Aniruddha Jatkar,Rachel David,Nidhi Subbaiah",1100,366674.0,Damthi Pictures,105,"Drama, Thriller",Kannada
+Am Ah,2025,6.6,Thomas K. Sebastian,"Devadarshini Chetan,Dileesh Pothan,Meera Vasudevan",4700,7014.0,Kaapi Productions,115,Drama,Malayalam
+Bhoothakaalam,2022,7.4,Rahul Sadasivan,"Shane Nigam,Saiju Kurup",4700,481860.0,"Anwar Rasheed Entertainment, Plan T Films, Shane Nigam Films",105,"Drama, Horror, Mystery",Malayalam
+Footage,2024,5.1,Saiju Sreedharan,"Manju Warrier,Vishak Nair,Gayathri Ashok",2400,3281.0,"Cast n Co Entertainments, Movie Bucket, Pale Blue Dot Films",124,Thriller,Malayalam
+Kooman,2022,7.3,Jeethu Joseph,"Asif Ali,Prasant Murali,Jaffer Idukki",3900,286887.0,"Ananya Films, Magic Frames",153,"Drama, Mystery, Thriller",Malayalam
+Aattam,2023,8.2,Anand Ekarshi,"Vinay Forrt,Zarin Shihab,Kalabhavan Shajohn",4800,21447.0,Joy Movie Productions,139,"Drama, Mystery, Thriller",Malayalam
+Dominic and the Ladies' Purse,2025,7.0,Gautham Vasudev Menon,"Gokul Suresh,Viji Venkatesh",2800,559852.0,Mammootty Kampany,151,"Comedy, Thriller",Malayalam
+Guruvayoor Ambalanadayil,2024,6.6,Vipin Das,"Prithviraj Sukumaran,Basil Joseph,Nikhila Vimal",4700,2128793.0,"E4 Entertainment, Prithviraj Productions",132,Comedy,Malayalam
+Varane Avashyamund,2020,6.9,Anoop Sathyan,"Suresh Gopi,Kalyani Priyadarshan",3600,694187.0,"M Star Satellite Communications, Wayfarer Films",145,"Comedy, Drama, Romance",Malayalam
+Vaazha: Biopic of a Billion Boys,2024,7.3,Anand Menon,"Siju Sunny,Amith Mohan Rajeshwari,Joemon Jyothir",4100,278964.0,"Icon Studios, Imagin Cinemas, WBTS Productions",125,"Comedy, Drama",Malayalam
+Curry & Cyanide: The Jolly Joseph Case,2023,6.7,Christo Tomy,Nikhila Henry,4400,481860.0,India Today Originals,98,"Crime, Documentary",Malayalam
+Mura,2024,7.2,Muhammed Musthafa,"Suraj Venjaramoodu,Hridhu Haroon,Maala Parvathi",6300,15724.0,HR Pictures,129,"Action, Drama",Malayalam
+12th Man,2022,6.8,Jeethu Joseph,"Mohanlal,Sshivada,Chandhunadh",4800,1061366.5,Aashirvad Cinemas,163,"Drama, Mystery, Thriller",Malayalam
+Ela Veezha Poonchira,2022,7.3,Shahi Kabir,"Soubin Shahir,Sudhi Koppa,Jude Anthany Joseph",2800,46315.0,"KML Pictures, Kadhaas Untold",104,"Crime, Mystery, Thriller",Malayalam
+Churuli,2021,7.0,Lijo Jose Pellissery,"Chemban Vinod Jose,Vinay Forrt,Joju George",5500,62051.5,"Chembosky Motion Pictures, Kasargod Aadmi Pictures, Movie Monastery",120,"Mystery, Sci-Fi, Thriller",Malayalam
+Falimy,2023,7.3,Nithish Sahadev,"Basil Joseph,Manju Pillai",3100,29472.0,"Cheers Entertainments, Sooper Dooper Films",125,"Comedy, Drama",Malayalam
+Antakshari,2022,6.5,Vipin Das,"Saiju Kurup,Sudhi Koppa,Ishita Singh",1600,185586.0,Sulthan Brothers Entertainment,121,"Crime, Thriller",Malayalam
+Level Cross,2024,6.8,Arfaz Ayub,"Asif Ali,Amala Paul",2600,72385.0,Abhishek Films,116,Drama,Malayalam
+Saudi Vellakka,2022,8.0,Tharun Moorthy,"Sminu Sijo,Vincy Aloshious",2700,45813.0,Urvasi Theaters,137,Drama,Malayalam
+Pada,2022,7.8,Kamal K.M.Vishnu R. Dev,"Kunchacko Boban,Joju George",3200,21064.0,"Digital Turbo Media, E4 Entertainment",130,"Crime, Drama, Thriller",Malayalam
+Kaapa,2022,5.9,Shaji Kailas,"Prithviraj Sukumaran,Asif Ali,Anna Ben",6600,381558.0,"Theatre of Dreams, Yoodlee Films",136,"Action, Crime, Thriller",Malayalam
+Nadodikkattu,1987,8.8,Sathyan Anthikad,"Mohanlal,Sreenivasan,Shobana",6200,126875.5,Casino Films,158,Comedy,Malayalam
+Virus,2019,7.7,Aashiq Abu,"Basil Joseph,Kunchacko Boban,Asif Ali",5700,626930.0,OPM Cinemas,152,"Drama, Thriller",Malayalam
+O.Baby,2023,6.7,Ranjan Pramod,"Dileesh Pothan,Shinu Syamalan,Vishnu Agasthya",5100,7870.0,"Colour Pencil Films, Colour Pencil Films, Pakal Films",126,"Action, Drama, Thriller",Malayalam
+Malayalee from India,2024,5.6,Dijo Jose Antony,"Anaswara Rajan,Shine Tom Chacko,Nivin Pauly",5000,375140.0,"Magic Frames, Pauly Jr.",160,"Action, Comedy, Drama",Malayalam
+Declaration,2022,6.4,Mahesh Narayanan,"Kunchacko Boban,Divya Prabha,Faisal Malik",4900,50013.0,"Moving Narratives, Udaya Studios",107,Drama,Malayalam
+Cold Case,2021,6.1,Tanu Balak,"Prithviraj Sukumaran,Aditi Balan,Lakshmi Priyaa Chandramouli",4800,85417.0,Anto Joseph Film Company,139,"Horror, Mystery, Thriller",Malayalam
+Oppam,2016,7.3,Priyadarshan,"Mohanlal,Samuthirakani,Anusree",4600,58839.0,Aashirvad Cinemas,143,"Action, Thriller",Malayalam
+Action Hero Biju,2016,7.6,Abrid Shine,"Nivin Pauly,Anu Emmanuel,Devi Ajith",4600,24233.0,"Full On Studios, Pauly Jr.",144,"Action, Comedy, Thriller",Malayalam
+Oru Canadian Diary,2021,2.1,Seema Sreekumar,"Paul Paulose,Pooja Sebastian",4500,100199.5,Sreem Productions,128,Thriller,Malayalam
+Solo,2017,7.0,Bejoy Nambiar,"Dulquer Salmaan,Sai Tamhankar",4500,4090423.0,"Abaam Movies, Getaway Films",154,"Musical, Romance, Thriller",Malayalam
+Meppadiyan,2022,7.1,Vishnu Mohan,"Unni Mukundan,Kottayam Ramesh,Saiju Kurup",4400,691981.0,Unni Mukundan Films,124,"Drama, Thriller",Malayalam
+Driving Licence,2019,7.2,Jean Paul Lal,"Prithviraj Sukumaran,Suraj Venjaramoodu",4400,495146.0,Prithviraj Productions,135,"Comedy, Drama, Thriller",Malayalam
+Rifle Club,2024,7.0,Aashiq Abu,"Anurag Kashyap,Dileesh Pothan",4300,651869.0,"OPM Cinemas, TRU Stories Entertainment",113,"Gun Fu, Action",Malayalam
+Abraham Ozler,2024,6.6,Midhun Manuel Thomas,Senthil Krishna,4200,978538.0,"Manual Movie Makers, Neramboku",143,"Drama, Mystery, Thriller",Malayalam
+Varshangalkku Shesham,2024,6.6,Vineeth Sreenivasan,"Pranav Mohanlal,Dhyan Sreenivasan,Nivin Pauly",4200,2360316.0,Merryland Cinemas,166,"Drama, Musical, Romance",Malayalam
+Malaikottai Vaaliban,2024,6.0,Lijo Jose Pellissery,"Sonalee Kulkarni,Hareesh Peradi",4200,808435.0,"John & Mary Creative, Century Films, Maxlab Cinemas & Entertainment",156,"Fantasy, Thriller, Western",Malayalam
+Kala,2021,6.7,Rohith V.S.,"Tovino Thomas,Divya Pillai",4100,60895.0,Juvis Production,130,"Action, Thriller",Malayalam
+Muddy,2021,6.1,Pragabhal,"Yuvan Krishna,Ridhaan Krishnas,Suresh Anusha",4000,194871.5,PK7 Creation,137,"Action, Thriller",Malayalam
+Madhuraraja,2019,5.9,Vysakh,Jagapathi Babu,4100,1051859.0,Nelson IPE,147,"Action, Comedy, Drama",Malayalam
+CBI 5: The Brain,2022,5.6,K. Madhu,Jagathy Sreekumar,4000,66426.0,Swargachitra,162,"Crime, Mystery, Thriller",Malayalam
+Paachuvum Albhuthavilakkum,2023,7.3,Akhil Sathyan,"Fahadh Faasil,Viji Venkatesh,Anjana Jayaprakash",3900,312415.0,Full Moon Cinema,171,"Comedy, Drama",Malayalam
+Helen,2019,7.7,Mathukutty Xavier,"Anna Ben,Noble Babu Thomas",3900,224613.0,"Big Bang Entertainments, Habit of Life",117,"Drama, Thriller",Malayalam
+Thankam,2023,7.1,Saheed ArafathPrinish Prabhakaran,"Biju Menon,Vineeth Sreenivasan,Girish Kulkarni",3900,131028.0,"Fahadh Faasil and Friends, Kailasa Films, Working Class Hero",145,"Crime, Drama",Malayalam
+Sweetheart!,2025,5.3,Swineeth S Sukumar,"Gopika Ramesh,Rio Raj",277,1501016.5,YSR Films,144,Romance,Tamil
+Virndavani Vairagya,2018,4.9,Ashish Avikunthak,"Prakriti Dutta Muherjee,Sagnik Mukherjee,Debleena Sen",233,50013.0,Ashish Avikunthak Productions,91,Drama,Bengali
+Akaal - The Unconquered,2025,7.4,Gippy Grewal,"Gippy Grewal,Nimrat Khaira,Apinderdeep Singh",243,349271.0,"Dharma Productions, Humble Motion Pictures",140,"Action, Drama, History",Punjabi
+Jack,2025,5.5,Bommarillu Baskar,"Vaishnavi Chaitanya,Sidhu Jonnalagadda,Prakash Raj",142,41738.0,Sri Venkateswara Cine Chitra,133,Action,Telugu
+NKR21,2025,6.2,Pradeep Chilukuri,"Nandamuri Kalyan Ram,Saiee Manjrekar",278,22927.0,"Ashoka Creations, NTR Arts",152,Action,Telugu
+Ohm Shanthi Oshaana,2014,7.7,Jude Anthany Joseph,"Nazriya Nazim,Nivin Pauly,Aju Varghese",6600,149229.0,Ananya Films,136,"Comedy, Romance",Malayalam
+Oru Vadakkan Veeragatha,1989,8.7,T. Hariharan,"Mammootty,Madhavi,Devan",6600,78.0,Grahalakshmi Productions,168,"Drama, History",Malayalam
+Oru CBI Diary Kurippu,1988,8.1,K. Madhu,"Mammootty,Suresh Gopi,Jagathy Sreekumar",6500,260989.0,Sunitha Productions,137,"Mystery, Thriller",Malayalam
+Forensic,2020,6.8,Anas KhanAkhil Paul,"Tovino Thomas,Mamta Mohandas,Saiju Kurup",6500,269095.0,"Juvis Production, Ragam Movies",134,"Crime, Mystery, Thriller",Malayalam
+Pranchiyettan and the Saint,2010,8.3,Ranjith,Jesse Fox Allen,6500,957.0,Capitol Theatre,140,"Satire, Comedy, Drama",Malayalam
+Chithram,1988,8.6,Priyadarshan,"Mohanlal,Nedumudi Venu,Renjini",6500,481860.0,"Shirdi Sai Creations, Shirdi Sai Productions",159,"Comedy, Drama, Musical",Malayalam
+Thallumaala,2022,6.9,Khalid Rahman,"Tovino Thomas,Kalyani Priyadarshan,Shine Tom Chacko",6500,2587493.0,"Ashiq Usman Productions, Plan B Motion Pictures",148,"Action, Comedy, Drama",Malayalam
+Sandesham,1991,9.0,Sathyan Anthikad,"Thilakan,Sreenivasan,Jayaram",5800,2003486.5,Unknown,138,"Satire, Comedy, Drama",Malayalam
+Kali,2016,6.9,Sameer Thahir,"Dulquer Salmaan,Sai Pallavi",5700,35247.0,"Hand Made Films, MG Movies Productions",115,"Action, Drama, Thriller",Malayalam
+Njan Prakashan,2018,7.7,Sathyan Anthikad,"Fahadh Faasil,Nikhila Vimal",5600,86540.0,Full Moon Cinema,131,"Comedy, Drama",Malayalam
+Nna Thaan Case Kodu,2022,8.0,Ratheesh Balakrishnan Poduval,"Kunchacko Boban,Rajesh Madhavan",6100,1554666.0,"Kunchacko Boban Productions, STK Frames, Udaya Studios",138,"Comedy, Crime, Drama",Malayalam
+Neram,2013,7.5,Alphonse Puthren,"Nivin Pauly,Nazriya Nazim,Lalu Alex",5500,987421.0,Winner Bulls Films,117,"Crime, Drama, Thriller",Malayalam
+Operation Java,2021,8.0,Tharun MoorthySudhi Maddison,"Balu Varghese,Lukman Avaran",5500,987421.0,V Cinemas,146,"Crime, Drama, Thriller",Malayalam
+Traffic,2011,8.1,Rajesh Pillai,"Kunchacko Boban,Sudip Joshy",5500,481860.0,Magic Frames,122,"Adventure, Mystery, Thriller",Malayalam
+Nanpakal Nerathu Mayakkam,2022,7.4,Lijo Jose Pellissery,Rajesh Sharma,5400,185102.0,"Amen Movie Monastery, Mammootty Kampany",105,"Comedy, Drama",Malayalam
+Memories,2013,8.0,Jeethu Joseph,"Prithviraj Sukumaran,Sreejith Ravi",8300,426782.0,Anantha Vision,132,"Crime, Mystery, Thriller",Malayalam
+Kireedam,1989,8.9,Sibi Malayil,Kaviyoor Ponnamma,9200,181001.0,Kripa Films,124,"Action, Drama",Malayalam
+Logout,2024,7.2,Amit Golani,"Babil Khan,Rasika Dugal,Gandharv Dewan",721,100199.5,"Viacom18 Studios, Posham Pa Pictures",108,Thriller,Hindi
+Yamakaathaghi,2025,6.8,Peppin George Jayaseelan,"Pradeep Durairaj,Geetha Kailasam",211,481860.0,Sarang Brothers,113,"Crime, Horror, Thriller",Tamil
+Ghilli,2004,8.2,Dharani,"Joseph Vijay,Trisha Krishnan,Prakash Raj",18000,163961.0,Sri Surya Films,160,"Drama, Romance, Sport",Tamil
+Akhanda,2021,6.8,Boyapati Srinu,"Nandamuri Balakrishna,Pragya Jaiswal,Jagapathi Babu",20000,253348.0,Dwaraka Creations,167,"Action, Drama",Telugu
+Milana,2007,8.3,Prakash,"Puneeth Rajkumar,Parvathy Thiruvothu,Pooja Gandhi",1400,1501016.5,Unknown,155,Romance,Kannada
+Damayanthi,2019,6.2,Navarasan,"Radhika Kumaraswamy,Anusha Rai",1400,481860.0,Sri Lakshmi Vrushadhri Productions,161,"Drama, Horror",Kannada
+Seetharama Kalyana,2019,6.2,Harsha,"Nikhil Gowda,Rachita Ram",1400,50013.0,Channambika Films,155,Drama,Kannada
+Operation Alamelamma,2017,7.9,Suni,"Manish Rishi,Shraddha Srinath,Rajesh Nataranga",1200,559852.0,"Star, Fab Production",138,"Comedy, Thriller",Kannada
+Koli Taal,2021,7.7,Abhilash Shetty,"Prabhakar Kunder,Radha Ramachandra,Ganesh Mogaveera",1200,481860.0,"Gubbi Cinema, Shakti Pictures",92,"Comedy, Drama, Mystery",Kannada
+Tiger,2017,6.7,Nanda Kishore,"Pradeep Bogadi,Nyra Banerjee",1200,2155981.5,Inchara Film Factory,155,"Action, Drama, Thriller",Kannada
+Jagamerigina Satyam,2025,9.3,Tirupathi Pale,"Neelima Pethakamsetti,Vasudev Rao",2000,50013.0,Amrutha Sathyanarayana Creations,141,Drama,Telugu
+Test,2025,5.1,S. Sashikanth,"Madhava,Nayathara,Siddharth",1500,204669.0,Y Not Studios,145,"Drama, Sport",Malayalam
+Marana Mass,2025,8.0,Sivaprasad,"Basil Joseph,Tovino Thomas,Siju Sunny",1300,408312.0,"Rapheal Film Productions, Tovino Thomas Productions, Worldwide Films",139,Comedy,Malayalam
+Paru Parvathy,2025,6.3,Rohit Keerti,"Poonam sirnaik,Deepika Das,Anthony Mark Mckeon",1100,193.0,Eighteen Thirty Six Pictures,161,Adventure,Kannada
+Kora,2025,9.7,Orata shree,"Charishma,M.K. Math,P. Murthy",1000,481860.0,Rathnamma Movies,144,Unknown,Kannada
+Santhu Straight Forward,2016,6.5,Mahesh RaoJocky,Radhika Pandit,1000,56591.0,K Manju Cinemaas,159,"Action, Drama, Romance",Kannada
+6-5=2,2013,5.6,"K.S. Ashoka,Swarna Latha","Darshan Apoorva,Vijay Chendoor",1100,142987.0,"Swarna, Latha Production",105,"Horror, Thriller",Kannada
+Gargi,2022,8.1,Gautham Ramachandran,"Sai Pallavi,Kaali Venkat",7800,366674.0,"2D Entertainment, Blacky Genie & My Left Foot Productions",140,"Drama, Thriller",Tamil
+Vaazhai,2024,7.7,Mari Selvaraj,"Dhivya Dhuraisamy,Satish Kumar",4800,611095.0,Navvi Studios,134,Drama,Tamil
+Iraivan,2023,4.7,I. Ahmed,"Ravi Mohan,Vijayalakshmi Ahathian",2300,53387.0,Passion Studios,154,"Horror, Mystery, Thriller",Tamil
+Jigarthanda Double X,2023,8.0,Karthik Subbaraj,"Raghava Lawrence,Nimisha Sajayan",11000,279408.0,"Five Star Creations, Invenio Origin, Stone Bench Films",172,"Action, Comedy, Drama",Tamil
+Madgaon Express,2024,7.0,Kunal Kemmu,"Divyendu Sharma,Pratik Gandhi,Avinash Tiwary",41000,208594.0,Excel Entertainment,143,"Adventure, Comedy, Drama",Hindi
+Haider,2014,8.0,Vishal Bhardwaj,"Shahid Kapoor,Shraddha Kapoor",59000,1404307.0,"UTV Motion Pictures, Vishal Bhardwaj Pictures",160,"Crime, Drama, Thriller",Hindi
+Shanmukha,2025,3.4,Shanumugam Sappani,"Avika Gor,Krishna Alluri",358,481860.0,Sapbro Productions,121,"Fantasy, Thriller",Telugu
+Liger,2022,2.6,Puri Jagannadh,"Vijay Deverakonda,Ananya Panday,Ramya Krishnan",48000,4879486.0,"Dharma Productions, Puri Connects",140,"Drama, Romance, Sport",Hindi
+Demonte Colony 2 (Vengeance of the Unholy),2024,6.6,R. Ajay Gnanamuthu,"V J Archana,Arulnithi,C. Arunpandian",4400,142987.0,"BTG Universal, Gnanamuthu Pattarai, Raaj Varma Entertainment",144,"Horror, Thriller",Tamil
+Saaho,2019,5.1,Sujeeth,"Shraddha Kapoor,Jackie Shroff",25000,5708522.0,"UV Creations, SVO Special Vehicle Operations, T-Series Films",170,"Action, Thriller",Hindi
