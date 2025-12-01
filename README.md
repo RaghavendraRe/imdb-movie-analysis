@@ -2,19 +2,28 @@
 
 Tools: Python (Pandas, Selenium, BeautifulSoup), Power BI, Excel
 Duration: Mar 2025 – Apr 2025
-Project Type: End-to-End Data Analytics + Web Scraping + EDA + Dashboard
+Project Type: End-to-End Data Analytics • Web Scraping • EDA • Power BI Dashboard
 
 📌 Project Overview
 
 This project analyzes the Indian movie market by scraping data from IMDb, cleaning and transforming it, performing EDA, and visualizing insights using an interactive Power BI dashboard.
 
-I collected 600+ movie records across multiple Indian languages (Hindi, Tamil, Telugu, Malayalam, Kannada) and analyzed trends in ratings, revenue, genres, runtime, and star performance.
+A total of 600+ movies were collected across multiple Indian languages (Hindi, Tamil, Telugu, Malayalam, Kannada).
+The analysis focuses on ratings, revenue, genres, runtime, top actors, and production companies.
 
-The final dashboard reveals key market insights such as:
-✔ Malayalam films having the highest average ratings
-✔ Hindi movies leading in gross worldwide revenue
-✔ Strong link between votes & box office performance
-✔ Genre-wise trends in revenue and movie popularity
+🔍 Key Insights
+
+⭐ Malayalam films have the highest average ratings
+
+💰 Hindi movies lead in gross worldwide revenue
+
+📈 Audience votes show a positive correlation with revenue
+
+🎭 Sport and Biography genres earn the highest revenue
+
+🎥 Telugu & Tamil movies have longer runtimes
+
+🎬 UTV Motion Pictures & Yash Raj Films dominate production revenue
 
 🛠️ Project Workflow
 1️⃣ Web Scraping (Python + Selenium + BeautifulSoup)
@@ -23,74 +32,69 @@ File: Notebooks/testing.ipynb
 
 Scraped 600+ movie records from IMDb
 
-Extracted title, year, runtime, rating, votes, revenue, language, genre
+Extracted: title, year, runtime, rating, votes, revenue, language, genre
 
-Automated multi-page scraping using Selenium
+Automated multi-page scraping with Selenium
 
 2️⃣ Data Cleaning & Transformation
 
 File: Notebooks/datacleaning.ipynb
 
-Cleaned messy fields (revenue, votes, runtime, genres)
+Cleaned messy columns (revenue, votes, runtime, genre)
 
 Removed duplicates
 
-Standardized language & genre labels
+Standardized language/genre labels
 
 Fixed missing values
 
-Saved final cleaned dataset: datasets/imdb01cleaned.csv
+Final dataset saved as → datasets/imdb01cleaned.csv
 
 3️⃣ Exploratory Data Analysis (EDA)
 
-File: Notebooks/EDAlMDB.ipynb
+File: Notebooks/EDAIMDB.ipynb
 
-Examined rating distribution
+Rating distribution analysis
 
-Genre vs gross revenue analysis
+Genre-wise revenue patterns
 
-Language-wise movie performance
+Language-wise performance
 
-Top production companies
+Top actors & production companies
 
-Top 10 actors by ratings
+Correlation (votes ↔ revenue)
 
-Correlation between audience votes and revenue
+Visualizations with Matplotlib/Seaborn
 
 4️⃣ Power BI Dashboard
 
 Folder: Power BI Dashboards/
-Includes PNG previews of the dashboard pages:
-📊 overview dashboard.png
-📊 Success Factor Analysis.png
-📊 genre and content analysis.png
-📊 directors.png
+
+Includes PNG previews:
+
+overview dashboard.png
+
+Success Factor Analysis.png
+
+genre and content analysis.png
+
+directors.png
 
 Dashboard features:
 
-Overview metrics (total movies, avg rating)
+KPIs (Total Movies, Avg Rating)
 
-Rating vs revenue visualization
+Rating vs Revenue
 
-Votes vs revenue correlation
+Votes vs Revenue Trend
 
-Genre-wise performance
+Genre Performance
 
-Director-wise total revenue
+Director Revenue Word Cloud
 
-Language-wise comparisons
+Language Comparisons
 
-🎯 Key Insights
-
-Malayalam movies hold the highest avg rating (7.47)
-
-Hindi movies dominate in box office revenue
-
-Sport & Biography genres generate the highest revenue
-
-Telugu/Tamil movies have longer runtimes
-
-Production companies like UTV Motion Pictures & Yash Raj Films lead in revenue
+Drilldowns & Filters
 
 🚀 Tech Stack Used
 Python
@@ -107,9 +111,9 @@ Matplotlib / Seaborn
 
 Power BI
 
-DAX
-
 Data Modeling
+
+DAX
 
 Interactive Visuals
 
@@ -117,7 +121,9 @@ Filters & Drilldowns
 
 Excel
 
-Supporting data validation & cleanup
+Pre-processing support
+
+Data validation
 
 📁 Repository Structure
 📦 IMDb-Regional-Movie-Analysis
@@ -129,7 +135,7 @@ Supporting data validation & cleanup
 │
 ├── 📁 Power BI Dashboards
 │    ├── overview dashboard.png
-│    ├── Sucess Factor Analysis.png
+│    ├── Success Factor Analysis.png
 │    ├── genre and content analysis.png
 │    └── directors.png
 │
@@ -140,4 +146,4 @@ Supporting data validation & cleanup
 
 ▶️ Dashboard Demo (YouTube Video)
 
-https://youtu.be/rYgmKZyrnUA
+📽️ Watch here: https://youtu.be/rYgmKZyrnUA
